@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+librosa
+lightgbm
+xgboost
+scikit-learn
+tqdm
+imblearn
+ipython
+notebook
