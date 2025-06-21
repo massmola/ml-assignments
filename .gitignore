@@ -5,3 +5,5 @@ birdclef-2025
 *.zip
 *.csv
 Project/recording_location.txt
+*.vscode/
+Project/test.py
