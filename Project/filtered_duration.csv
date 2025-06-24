@@ -49,6 +49,7 @@ primary_label,filename,rating,latitude,longitude,file_path,class_name,duration
 21211,21211/XC928710.ogg,3.0,3.6023,-53.26,birdclef-2025/train_audio/21211/XC928710.ogg,Amphibia,8.11884375
 21211,21211/XC928714.ogg,3.0,3.6023,-53.26,birdclef-2025/train_audio/21211/XC928714.ogg,Amphibia,6.60978125
 amakin1,amakin1/XC113758.ogg,4.0,-20.8004,-42.8884,birdclef-2025/train_audio/amakin1/XC113758.ogg,Aves,8.04571875
+amakin1,amakin1/XC119209.ogg,2.5,-10.7342,-49.8559,birdclef-2025/train_audio/amakin1/XC119209.ogg,Aves,6.478375
 amakin1,amakin1/XC120034.ogg,3.0,-3.6668,-45.8465,birdclef-2025/train_audio/amakin1/XC120034.ogg,Aves,5.304
 amakin1,amakin1/XC127702.ogg,3.0,-12.2292,-69.3256,birdclef-2025/train_audio/amakin1/XC127702.ogg,Aves,5.041625
 amakin1,amakin1/XC128795.ogg,5.0,-16.7581,-56.8764,birdclef-2025/train_audio/amakin1/XC128795.ogg,Aves,13.968
@@ -306,6 +307,7 @@ banana,banana/XC58864.ogg,3.0,-12.076,-77.038,birdclef-2025/train_audio/banana/X
 banana,banana/XC589670.ogg,5.0,2.1869,-75.5584,birdclef-2025/train_audio/banana/XC589670.ogg,Aves,17.73715625
 banana,banana/XC59515.ogg,4.0,8.9378,-79.5528,birdclef-2025/train_audio/banana/XC59515.ogg,Aves,15.8563125
 banana,banana/XC622477.ogg,5.0,2.1869,-75.5584,birdclef-2025/train_audio/banana/XC622477.ogg,Aves,16.92734375
+banana,banana/XC649625.ogg,2.5,5.2728,-74.2738,birdclef-2025/train_audio/banana/XC649625.ogg,Aves,16.032
 banana,banana/XC659497.ogg,4.0,-14.134,-47.514,birdclef-2025/train_audio/banana/XC659497.ogg,Aves,18.36409375
 banana,banana/XC690554.ogg,4.0,10.437,-84.7093,birdclef-2025/train_audio/banana/XC690554.ogg,Aves,12.8
 banana,banana/XC696962.ogg,4.0,-10.3508,-38.9426,birdclef-2025/train_audio/banana/XC696962.ogg,Aves,6.530625
@@ -349,6 +351,7 @@ banana,banana/XC939544.ogg,5.0,1.4022,-60.9869,birdclef-2025/train_audio/banana/
 banana,banana/XC939908.ogg,4.5,1.8299,-61.1451,birdclef-2025/train_audio/banana/XC939908.ogg,Aves,19.617
 banana,banana/XC946049.ogg,4.0,3.5026,-76.3552,birdclef-2025/train_audio/banana/XC946049.ogg,Aves,5.89978125
 banana,banana/XC946050.ogg,4.0,3.5026,-76.3552,birdclef-2025/train_audio/banana/XC946050.ogg,Aves,2.90334375
+banana,banana/XC956109.ogg,2.5,-16.4456,-51.1201,birdclef-2025/train_audio/banana/XC956109.ogg,Aves,18.33796875
 banana,banana/XC956867.ogg,5.0,-22.9048,-43.1028,birdclef-2025/train_audio/banana/XC956867.ogg,Aves,10.992
 banana,banana/XC957251.ogg,4.0,8.3877,-77.7629,birdclef-2025/train_audio/banana/XC957251.ogg,Aves,11.664
 banana,banana/XC960423.ogg,4.0,3.5348,-76.7536,birdclef-2025/train_audio/banana/XC960423.ogg,Aves,14.3499375
@@ -535,8 +538,10 @@ bicwre1,bicwre1/XC343234.ogg,5.0,10.9587,-72.9342,birdclef-2025/train_audio/bicw
 bicwre1,bicwre1/XC354868.ogg,4.0,2.7143,-60.6071,birdclef-2025/train_audio/bicwre1/XC354868.ogg,Aves,11.28
 bicwre1,bicwre1/XC380717.ogg,3.0,11.2643,-74.1833,birdclef-2025/train_audio/bicwre1/XC380717.ogg,Aves,15.648
 bicwre1,bicwre1/XC382478.ogg,3.0,9.9261,-75.1074,birdclef-2025/train_audio/bicwre1/XC382478.ogg,Aves,11.688
+bicwre1,bicwre1/XC385510.ogg,2.5,9.9813,-69.5325,birdclef-2025/train_audio/bicwre1/XC385510.ogg,Aves,19.9836875
 bicwre1,bicwre1/XC385607.ogg,5.0,9.987,-69.5458,birdclef-2025/train_audio/bicwre1/XC385607.ogg,Aves,12.669375
 bicwre1,bicwre1/XC387417.ogg,3.0,11.2446,-73.8003,birdclef-2025/train_audio/bicwre1/XC387417.ogg,Aves,4.752
+bicwre1,bicwre1/XC389155.ogg,2.5,11.2643,-74.1833,birdclef-2025/train_audio/bicwre1/XC389155.ogg,Aves,16.896
 bicwre1,bicwre1/XC416105.ogg,3.0,6.6915,-75.8384,birdclef-2025/train_audio/bicwre1/XC416105.ogg,Aves,9.168
 bicwre1,bicwre1/XC438171.ogg,3.0,11.3137,-73.9467,birdclef-2025/train_audio/bicwre1/XC438171.ogg,Aves,7.41878125
 bicwre1,bicwre1/XC438181.ogg,3.0,11.2789,-73.867,birdclef-2025/train_audio/bicwre1/XC438181.ogg,Aves,9.090625
@@ -683,6 +688,7 @@ blbgra1,blbgra1/XC422204.ogg,5.0,-14.625,-49.0051,birdclef-2025/train_audio/blbg
 blbgra1,blbgra1/XC423055.ogg,4.0,-18.002,-40.381,birdclef-2025/train_audio/blbgra1/XC423055.ogg,Aves,19.008
 blbgra1,blbgra1/XC424492.ogg,5.0,4.371,-75.2307,birdclef-2025/train_audio/blbgra1/XC424492.ogg,Aves,15.816
 blbgra1,blbgra1/XC445140.ogg,4.0,3.4756,-67.9643,birdclef-2025/train_audio/blbgra1/XC445140.ogg,Aves,12.878375
+blbgra1,blbgra1/XC454485.ogg,2.5,6.3308,-75.7697,birdclef-2025/train_audio/blbgra1/XC454485.ogg,Aves,12.552
 blbgra1,blbgra1/XC51124.ogg,4.0,-30.5827,-59.9402,birdclef-2025/train_audio/blbgra1/XC51124.ogg,Aves,17.44978125
 blbgra1,blbgra1/XC51125.ogg,4.0,-34.2342,-58.8861,birdclef-2025/train_audio/blbgra1/XC51125.ogg,Aves,7.49715625
 blbgra1,blbgra1/XC524139.ogg,4.0,9.63,-74.9122,birdclef-2025/train_audio/blbgra1/XC524139.ogg,Aves,18.18121875
@@ -716,6 +722,7 @@ blbgra1,blbgra1/XC768803.ogg,5.0,-6.561,-47.4611,birdclef-2025/train_audio/blbgr
 blbgra1,blbgra1/XC769492.ogg,5.0,-6.3761,-47.1085,birdclef-2025/train_audio/blbgra1/XC769492.ogg,Aves,2.95184375
 blbgra1,blbgra1/XC771679.ogg,4.0,4.7816,-75.7321,birdclef-2025/train_audio/blbgra1/XC771679.ogg,Aves,6.426125
 blbgra1,blbgra1/XC782163.ogg,5.0,-11.362,-55.4185,birdclef-2025/train_audio/blbgra1/XC782163.ogg,Aves,2.324
+blbgra1,blbgra1/XC789225.ogg,2.5,15.6538,-93.3759,birdclef-2025/train_audio/blbgra1/XC789225.ogg,Aves,8.064
 blbgra1,blbgra1/XC800265.ogg,5.0,-16.4727,-49.4959,birdclef-2025/train_audio/blbgra1/XC800265.ogg,Aves,7.52325
 blbgra1,blbgra1/XC800269.ogg,4.0,-16.4727,-49.4959,birdclef-2025/train_audio/blbgra1/XC800269.ogg,Aves,7.601625
 blbgra1,blbgra1/XC800363.ogg,4.5,-16.4727,-49.4959,birdclef-2025/train_audio/blbgra1/XC800363.ogg,Aves,10.44896875
@@ -770,6 +777,7 @@ blcant4,blcant4/XC116094.ogg,3.0,5.1304,-68.3063,birdclef-2025/train_audio/blcan
 blcant4,blcant4/XC139207.ogg,4.5,1.4022,-60.9869,birdclef-2025/train_audio/blcant4/XC139207.ogg,Aves,19.61796875
 blcant4,blcant4/XC220982.ogg,5.0,7.5637,-69.4968,birdclef-2025/train_audio/blcant4/XC220982.ogg,Aves,14.5763125
 blcant4,blcant4/XC244846.ogg,3.5,5.145,-70.9575,birdclef-2025/train_audio/blcant4/XC244846.ogg,Aves,19.35675
+blcant4,blcant4/XC28738.ogg,2.5,8.7001,-73.7834,birdclef-2025/train_audio/blcant4/XC28738.ogg,Aves,4.56
 blcant4,blcant4/XC298507.ogg,3.5,-3.7004,-73.2761,birdclef-2025/train_audio/blcant4/XC298507.ogg,Aves,16.718375
 blcant4,blcant4/XC387120.ogg,4.0,-2.5961,-60.923,birdclef-2025/train_audio/blcant4/XC387120.ogg,Aves,4.4669375
 blcant4,blcant4/XC403401.ogg,4.0,4.8313,-52.2973,birdclef-2025/train_audio/blcant4/XC403401.ogg,Aves,5.95590625
@@ -905,12 +913,14 @@ blhpar1,blhpar1/XC654259.ogg,5.0,-16.5849,-49.1211,birdclef-2025/train_audio/blh
 blhpar1,blhpar1/XC689905.ogg,4.0,0.7623,-50.1636,birdclef-2025/train_audio/blhpar1/XC689905.ogg,Aves,13.5836875
 blhpar1,blhpar1/XC691976.ogg,5.0,-16.0538,-49.604,birdclef-2025/train_audio/blhpar1/XC691976.ogg,Aves,10.7624375
 blhpar1,blhpar1/XC699819.ogg,4.5,-16.6003,-49.2802,birdclef-2025/train_audio/blhpar1/XC699819.ogg,Aves,13.19184375
+blhpar1,blhpar1/XC71118.ogg,2.5,0.258,-79.192,birdclef-2025/train_audio/blhpar1/XC71118.ogg,Aves,8.90775
 blhpar1,blhpar1/XC727428.ogg,5.0,-16.0538,-49.604,birdclef-2025/train_audio/blhpar1/XC727428.ogg,Aves,13.949375
 blhpar1,blhpar1/XC754758.ogg,5.0,-11.7519,-55.638,birdclef-2025/train_audio/blhpar1/XC754758.ogg,Aves,9.5085625
 blhpar1,blhpar1/XC764114.ogg,3.0,-6.7396,-76.354,birdclef-2025/train_audio/blhpar1/XC764114.ogg,Aves,13.792
 blhpar1,blhpar1/XC769647.ogg,5.0,-6.3761,-47.1085,birdclef-2025/train_audio/blhpar1/XC769647.ogg,Aves,8.80325
 blhpar1,blhpar1/XC807309.ogg,4.0,3.6167,-53.2001,birdclef-2025/train_audio/blhpar1/XC807309.ogg,Aves,13.8360625
 blhpar1,blhpar1/XC810434.ogg,4.0,4.4058,-57.2308,birdclef-2025/train_audio/blhpar1/XC810434.ogg,Aves,6.191
+blhpar1,blhpar1/XC819401.ogg,2.5,4.843,-75.8187,birdclef-2025/train_audio/blhpar1/XC819401.ogg,Aves,18.91265625
 blhpar1,blhpar1/XC821602.ogg,5.0,-9.0875,-64.0228,birdclef-2025/train_audio/blhpar1/XC821602.ogg,Aves,6.11265625
 blhpar1,blhpar1/XC827035.ogg,5.0,-0.4776,-77.2936,birdclef-2025/train_audio/blhpar1/XC827035.ogg,Aves,10.814
 blhpar1,blhpar1/XC828124.ogg,4.0,-16.2352,-51.2556,birdclef-2025/train_audio/blhpar1/XC828124.ogg,Aves,12.43428125
@@ -941,6 +951,7 @@ blkvul,blkvul/XC324803.ogg,4.0,39.2189,-76.069,birdclef-2025/train_audio/blkvul/
 blkvul,blkvul/XC324818.ogg,3.0,39.2189,-76.069,birdclef-2025/train_audio/blkvul/XC324818.ogg,Aves,17.162
 blkvul,blkvul/XC328861.ogg,5.0,-16.3592,-39.1381,birdclef-2025/train_audio/blkvul/XC328861.ogg,Aves,16.92
 blkvul,blkvul/XC407342.ogg,4.0,-1.6779,-80.7952,birdclef-2025/train_audio/blkvul/XC407342.ogg,Aves,6.72
+blkvul,blkvul/XC408078.ogg,2.5,-23.4775,-45.1694,birdclef-2025/train_audio/blkvul/XC408078.ogg,Aves,12.9045
 blkvul,blkvul/XC419189.ogg,3.0,-16.2794,-39.6105,birdclef-2025/train_audio/blkvul/XC419189.ogg,Aves,1.872
 blkvul,blkvul/XC422351.ogg,5.0,-16.5728,-49.3122,birdclef-2025/train_audio/blkvul/XC422351.ogg,Aves,3.866125
 blkvul,blkvul/XC422352.ogg,5.0,-14.625,-49.0051,birdclef-2025/train_audio/blkvul/XC422352.ogg,Aves,13.71428125
@@ -1107,6 +1118,7 @@ brtpar1,brtpar1/XC338577.ogg,3.0,-9.0501,-56.5834,birdclef-2025/train_audio/brtp
 brtpar1,brtpar1/XC354860.ogg,4.0,3.473,-60.8972,birdclef-2025/train_audio/brtpar1/XC354860.ogg,Aves,9.504
 brtpar1,brtpar1/XC386701.ogg,5.0,8.6155,-82.9537,birdclef-2025/train_audio/brtpar1/XC386701.ogg,Aves,7.0269375
 brtpar1,brtpar1/XC433413.ogg,3.0,6.1512,-71.6993,birdclef-2025/train_audio/brtpar1/XC433413.ogg,Aves,9.978
+brtpar1,brtpar1/XC43804.ogg,2.5,11.007,-74.588,birdclef-2025/train_audio/brtpar1/XC43804.ogg,Aves,10.55346875
 brtpar1,brtpar1/XC438177.ogg,4.0,11.2789,-73.867,birdclef-2025/train_audio/brtpar1/XC438177.ogg,Aves,6.34775
 brtpar1,brtpar1/XC438178.ogg,4.0,11.2789,-73.867,birdclef-2025/train_audio/brtpar1/XC438178.ogg,Aves,6.73959375
 brtpar1,brtpar1/XC438187.ogg,4.0,11.2902,-73.8842,birdclef-2025/train_audio/brtpar1/XC438187.ogg,Aves,9.27346875
@@ -1241,6 +1253,7 @@ bubwre1,bubwre1/XC838483.ogg,3.0,11.1801,-69.6299,birdclef-2025/train_audio/bubw
 bubwre1,bubwre1/XC898248.ogg,3.0,-13.7317,-46.3549,birdclef-2025/train_audio/bubwre1/XC898248.ogg,Aves,17.345
 bubwre1,bubwre1/XC901127.ogg,3.0,-13.2516,-50.5893,birdclef-2025/train_audio/bubwre1/XC901127.ogg,Aves,6.687
 bubwre1,bubwre1/XC914909.ogg,3.0,-12.5264,-69.0163,birdclef-2025/train_audio/bubwre1/XC914909.ogg,Aves,13.35125
+bubwre1,bubwre1/XC931758.ogg,2.5,-16.4456,-51.1201,birdclef-2025/train_audio/bubwre1/XC931758.ogg,Aves,7.96734375
 bubwre1,bubwre1/XC934326.ogg,5.0,-16.0781,-50.218,birdclef-2025/train_audio/bubwre1/XC934326.ogg,Aves,5.851
 bubwre1,bubwre1/XC939588.ogg,5.0,1.4637,-60.9724,birdclef-2025/train_audio/bubwre1/XC939588.ogg,Aves,18.703
 bubwre1,bubwre1/XC939939.ogg,5.0,1.7914,-61.1375,birdclef-2025/train_audio/bubwre1/XC939939.ogg,Aves,7.836
@@ -1280,6 +1293,7 @@ bugtan,bugtan/XC275641.ogg,5.0,0.883,-78.8,birdclef-2025/train_audio/bugtan/XC27
 bugtan,bugtan/XC299425.ogg,4.0,4.727,-75.577,birdclef-2025/train_audio/bugtan/XC299425.ogg,Aves,17.3453125
 bugtan,bugtan/XC301212.ogg,4.0,14.0425,-87.2198,birdclef-2025/train_audio/bugtan/XC301212.ogg,Aves,16.35265625
 bugtan,bugtan/XC313659.ogg,3.0,13.857,-87.235,birdclef-2025/train_audio/bugtan/XC313659.ogg,Aves,15.20325
+bugtan,bugtan/XC320171.ogg,2.5,8.7566,-75.8851,birdclef-2025/train_audio/bugtan/XC320171.ogg,Aves,19.61796875
 bugtan,bugtan/XC325954.ogg,3.0,-1.5987,-47.5004,birdclef-2025/train_audio/bugtan/XC325954.ogg,Aves,10.704
 bugtan,bugtan/XC332956.ogg,3.5,10.0484,-84.1506,birdclef-2025/train_audio/bugtan/XC332956.ogg,Aves,4.153
 bugtan,bugtan/XC352973.ogg,4.0,-3.7538,-73.2448,birdclef-2025/train_audio/bugtan/XC352973.ogg,Aves,16.561625
@@ -1498,6 +1512,8 @@ chbant1,chbant1/XC275404.ogg,5.0,0.767,-79.15,birdclef-2025/train_audio/chbant1/
 chbant1,chbant1/XC278876.ogg,4.0,8.685,-83.6679,birdclef-2025/train_audio/chbant1/XC278876.ogg,Aves,13.704
 chbant1,chbant1/XC394708.ogg,5.0,0.03,-78.8672,birdclef-2025/train_audio/chbant1/XC394708.ogg,Aves,10.945
 chbant1,chbant1/XC403857.ogg,4.0,5.6271,-77.4042,birdclef-2025/train_audio/chbant1/XC403857.ogg,Aves,12.74775
+chbant1,chbant1/XC406937.ogg,2.5,5.6271,-77.4042,birdclef-2025/train_audio/chbant1/XC406937.ogg,Aves,10.8146875
+chbant1,chbant1/XC406950.ogg,2.5,5.6271,-77.4042,birdclef-2025/train_audio/chbant1/XC406950.ogg,Aves,10.8146875
 chbant1,chbant1/XC424023.ogg,5.0,9.1332,-79.7195,birdclef-2025/train_audio/chbant1/XC424023.ogg,Aves,9.43021875
 chbant1,chbant1/XC453796.ogg,3.0,9.7952,-84.6,birdclef-2025/train_audio/chbant1/XC453796.ogg,Aves,15.8563125
 chbant1,chbant1/XC46870.ogg,5.0,8.1506,-77.9997,birdclef-2025/train_audio/chbant1/XC46870.ogg,Aves,10.9975625
@@ -1566,6 +1582,7 @@ chfmac1,chfmac1/XC827036.ogg,5.0,-0.4776,-77.2936,birdclef-2025/train_audio/chfm
 chfmac1,chfmac1/XC827253.ogg,5.0,1.5118,-75.5255,birdclef-2025/train_audio/chfmac1/XC827253.ogg,Aves,17.12525
 chfmac1,chfmac1/XC84912.ogg,4.0,-9.8781,-56.0981,birdclef-2025/train_audio/chfmac1/XC84912.ogg,Aves,11.23265625
 chfmac1,chfmac1/XC860585.ogg,4.0,-10.8616,-65.9704,birdclef-2025/train_audio/chfmac1/XC860585.ogg,Aves,12.46996875
+chfmac1,chfmac1/XC9011.ogg,2.5,7.4334,-69.3167,birdclef-2025/train_audio/chfmac1/XC9011.ogg,Aves,14.837
 chfmac1,chfmac1/XC9283.ogg,5.0,-0.4,-76.333,birdclef-2025/train_audio/chfmac1/XC9283.ogg,Aves,7.444
 chfmac1,chfmac1/XC928644.ogg,4.0,0.1219,-79.138,birdclef-2025/train_audio/chfmac1/XC928644.ogg,Aves,17.1885625
 chfmac1,chfmac1/XC946026.ogg,4.0,3.5026,-76.3552,birdclef-2025/train_audio/chfmac1/XC946026.ogg,Aves,3.590125
@@ -1613,6 +1630,7 @@ cocher1,cocher1/XC257305.ogg,5.0,-0.703,-80.2,birdclef-2025/train_audio/cocher1/
 cocher1,cocher1/XC257306.ogg,5.0,-3.417,-79.95,birdclef-2025/train_audio/cocher1/XC257306.ogg,Aves,11.83346875
 cocher1,cocher1/XC294677.ogg,3.0,-26.7166,-49.4856,birdclef-2025/train_audio/cocher1/XC294677.ogg,Aves,18.83428125
 cocher1,cocher1/XC351103.ogg,4.5,-20.2209,-56.5751,birdclef-2025/train_audio/cocher1/XC351103.ogg,Aves,9.5085625
+cocher1,cocher1/XC414790.ogg,2.5,-16.5728,-49.3122,birdclef-2025/train_audio/cocher1/XC414790.ogg,Aves,1.8285625
 cocher1,cocher1/XC45667.ogg,5.0,-33.055,-58.259,birdclef-2025/train_audio/cocher1/XC45667.ogg,Aves,12.0946875
 cocher1,cocher1/XC476510.ogg,5.0,-16.5728,-49.3122,birdclef-2025/train_audio/cocher1/XC476510.ogg,Aves,8.96
 cocher1,cocher1/XC483497.ogg,4.0,-16.6869,-49.2648,birdclef-2025/train_audio/cocher1/XC483497.ogg,Aves,7.896
@@ -1622,6 +1640,7 @@ cocher1,cocher1/XC580864.ogg,5.0,6.0657,-74.5072,birdclef-2025/train_audio/coche
 cocher1,cocher1/XC608608.ogg,5.0,-32.8606,-60.6486,birdclef-2025/train_audio/cocher1/XC608608.ogg,Aves,10.50121875
 cocher1,cocher1/XC652050.ogg,4.5,-32.8606,-60.6486,birdclef-2025/train_audio/cocher1/XC652050.ogg,Aves,8.881625
 cocher1,cocher1/XC783435.ogg,5.0,-33.6195,-71.6295,birdclef-2025/train_audio/cocher1/XC783435.ogg,Aves,12.85528125
+cocher1,cocher1/XC807349.ogg,2.5,-32.0148,-52.1586,birdclef-2025/train_audio/cocher1/XC807349.ogg,Aves,11.755
 cocwoo1,cocwoo1/XC11212.ogg,4.0,9.1334,-79.6501,birdclef-2025/train_audio/cocwoo1/XC11212.ogg,Aves,7.392
 cocwoo1,cocwoo1/XC11213.ogg,4.0,9.1334,-79.6501,birdclef-2025/train_audio/cocwoo1/XC11213.ogg,Aves,15.542
 cocwoo1,cocwoo1/XC15001.ogg,4.0,10.7334,-61.2667,birdclef-2025/train_audio/cocwoo1/XC15001.ogg,Aves,19.59184375
@@ -1677,6 +1696,7 @@ colcha1,colcha1/XC235021.ogg,3.0,3.5851,-76.5262,birdclef-2025/train_audio/colch
 colcha1,colcha1/XC329361.ogg,4.0,6.8464,-73.3751,birdclef-2025/train_audio/colcha1/XC329361.ogg,Aves,15.177
 colcha1,colcha1/XC341423.ogg,5.0,6.9862,-75.1251,birdclef-2025/train_audio/colcha1/XC341423.ogg,Aves,10.71021875
 colcha1,colcha1/XC386844.ogg,4.0,5.775,-73.5507,birdclef-2025/train_audio/colcha1/XC386844.ogg,Aves,14.106125
+colcha1,colcha1/XC388861.ogg,2.5,5.1266,-74.5924,birdclef-2025/train_audio/colcha1/XC388861.ogg,Aves,17.448
 colcha1,colcha1/XC433493.ogg,3.0,6.6887,-75.8375,birdclef-2025/train_audio/colcha1/XC433493.ogg,Aves,16.968
 colcha1,colcha1/XC437294.ogg,3.0,6.246,-75.7774,birdclef-2025/train_audio/colcha1/XC437294.ogg,Aves,13.656
 colcha1,colcha1/XC45336.ogg,5.0,4.098,-75.6048,birdclef-2025/train_audio/colcha1/XC45336.ogg,Aves,9.84815625
@@ -1818,6 +1838,7 @@ compot1,compot1/XC427711.ogg,4.0,-1.4916,-48.3107,birdclef-2025/train_audio/comp
 compot1,compot1/XC436506.ogg,4.0,-16.5631,-49.285,birdclef-2025/train_audio/compot1/XC436506.ogg,Aves,4.4146875
 compot1,compot1/XC447764.ogg,4.0,-26.6291,-55.6646,birdclef-2025/train_audio/compot1/XC447764.ogg,Aves,14.592
 compot1,compot1/XC447887.ogg,4.0,-22.8842,-48.4442,birdclef-2025/train_audio/compot1/XC447887.ogg,Aves,7.157
+compot1,compot1/XC452812.ogg,2.5,-0.4383,-76.2791,birdclef-2025/train_audio/compot1/XC452812.ogg,Aves,19.9053125
 compot1,compot1/XC465088.ogg,4.0,3.5845,-76.8874,birdclef-2025/train_audio/compot1/XC465088.ogg,Aves,10.8408125
 compot1,compot1/XC497128.ogg,4.0,-4.2889,-70.2948,birdclef-2025/train_audio/compot1/XC497128.ogg,Aves,8.933875
 compot1,compot1/XC506962.ogg,4.0,4.7175,-75.6242,birdclef-2025/train_audio/compot1/XC506962.ogg,Aves,6.269375
@@ -1830,10 +1851,12 @@ compot1,compot1/XC551367.ogg,5.0,-14.3834,-40.2001,birdclef-2025/train_audio/com
 compot1,compot1/XC589881.ogg,5.0,-25.5163,-54.5854,birdclef-2025/train_audio/compot1/XC589881.ogg,Aves,13.08734375
 compot1,compot1/XC603961.ogg,4.0,-32.6221,-58.1746,birdclef-2025/train_audio/compot1/XC603961.ogg,Aves,6.55675
 compot1,compot1/XC604949.ogg,3.0,-32.3368,-58.1438,birdclef-2025/train_audio/compot1/XC604949.ogg,Aves,10.05715625
+compot1,compot1/XC645501.ogg,2.5,-27.5669,-55.6698,birdclef-2025/train_audio/compot1/XC645501.ogg,Aves,8.568
 compot1,compot1/XC673070.ogg,4.0,-23.6521,-46.6919,birdclef-2025/train_audio/compot1/XC673070.ogg,Aves,14.28
 compot1,compot1/XC681110.ogg,5.0,-22.3926,-42.3662,birdclef-2025/train_audio/compot1/XC681110.ogg,Aves,9.116
 compot1,compot1/XC709077.ogg,4.0,-0.4714,-76.4603,birdclef-2025/train_audio/compot1/XC709077.ogg,Aves,4.04896875
 compot1,compot1/XC712920.ogg,4.0,-7.2632,-39.4297,birdclef-2025/train_audio/compot1/XC712920.ogg,Aves,17.815
+compot1,compot1/XC71408.ogg,2.5,1.0909,-78.6906,birdclef-2025/train_audio/compot1/XC71408.ogg,Aves,9.76978125
 compot1,compot1/XC735426.ogg,4.5,-16.5849,-49.1211,birdclef-2025/train_audio/compot1/XC735426.ogg,Aves,6.58284375
 compot1,compot1/XC767425.ogg,3.0,5.7381,-73.4902,birdclef-2025/train_audio/compot1/XC767425.ogg,Aves,12.0163125
 compot1,compot1/XC770501.ogg,5.0,-14.5689,-40.3295,birdclef-2025/train_audio/compot1/XC770501.ogg,Aves,5.64259375
@@ -1923,6 +1946,7 @@ cotfly1,cotfly1/XC709708.ogg,4.0,3.5316,-73.4018,birdclef-2025/train_audio/cotfl
 cotfly1,cotfly1/XC720682.ogg,4.0,-16.7573,-56.8764,birdclef-2025/train_audio/cotfly1/XC720682.ogg,Aves,18.4424375
 cotfly1,cotfly1/XC737913.ogg,3.0,4.4921,-75.2813,birdclef-2025/train_audio/cotfly1/XC737913.ogg,Aves,5.28
 cotfly1,cotfly1/XC744332.ogg,5.0,-21.2439,-48.2932,birdclef-2025/train_audio/cotfly1/XC744332.ogg,Aves,6.426
+cotfly1,cotfly1/XC769397.ogg,2.5,-6.3761,-47.1085,birdclef-2025/train_audio/cotfly1/XC769397.ogg,Aves,13.89715625
 cotfly1,cotfly1/XC769819.ogg,4.5,-6.3443,-47.3633,birdclef-2025/train_audio/cotfly1/XC769819.ogg,Aves,4.4408125
 cotfly1,cotfly1/XC772530.ogg,4.5,-16.4353,-49.3948,birdclef-2025/train_audio/cotfly1/XC772530.ogg,Aves,8.80325
 cotfly1,cotfly1/XC773904.ogg,4.0,10.2993,-84.8174,birdclef-2025/train_audio/cotfly1/XC773904.ogg,Aves,4.99996875
@@ -1944,6 +1968,7 @@ cotfly1,cotfly1/XC884413.ogg,4.0,-14.917,-51.0755,birdclef-2025/train_audio/cotf
 cotfly1,cotfly1/XC893914.ogg,3.0,-0.6756,-77.6014,birdclef-2025/train_audio/cotfly1/XC893914.ogg,Aves,2.5
 cotfly1,cotfly1/XC895847.ogg,4.0,-8.5428,-40.1685,birdclef-2025/train_audio/cotfly1/XC895847.ogg,Aves,13.99896875
 cotfly1,cotfly1/XC9040.ogg,3.0,7.4334,-69.3167,birdclef-2025/train_audio/cotfly1/XC9040.ogg,Aves,17.24
+cotfly1,cotfly1/XC9042.ogg,2.5,7.4334,-69.3167,birdclef-2025/train_audio/cotfly1/XC9042.ogg,Aves,18.991
 cotfly1,cotfly1/XC9043.ogg,3.0,7.4334,-69.3167,birdclef-2025/train_audio/cotfly1/XC9043.ogg,Aves,6.086
 cotfly1,cotfly1/XC906790.ogg,3.5,4.5665,-52.4659,birdclef-2025/train_audio/cotfly1/XC906790.ogg,Aves,19.043
 cotfly1,cotfly1/XC915966.ogg,5.0,4.0744,-73.5829,birdclef-2025/train_audio/cotfly1/XC915966.ogg,Aves,10.96271875
@@ -1959,6 +1984,8 @@ cotfly1,cotfly1/XC946830.ogg,5.0,6.271,-75.564,birdclef-2025/train_audio/cotfly1
 cotfly1,cotfly1/XC954900.ogg,4.0,9.8328,-83.5635,birdclef-2025/train_audio/cotfly1/XC954900.ogg,Aves,7.176
 cotfly1,cotfly1/XC954901.ogg,4.0,9.8328,-83.5635,birdclef-2025/train_audio/cotfly1/XC954901.ogg,Aves,4.80653125
 cotfly1,cotfly1/XC955364.ogg,5.0,0.373,-79.6652,birdclef-2025/train_audio/cotfly1/XC955364.ogg,Aves,6.46675
+cotfly1,cotfly1/XC955493.ogg,2.5,9.8328,-83.5635,birdclef-2025/train_audio/cotfly1/XC955493.ogg,Aves,5.6424375
+cotfly1,cotfly1/XC955594.ogg,2.5,-27.3597,-55.9097,birdclef-2025/train_audio/cotfly1/XC955594.ogg,Aves,11.0
 cotfly1,cotfly1/XC955595.ogg,3.0,-27.3597,-55.9097,birdclef-2025/train_audio/cotfly1/XC955595.ogg,Aves,9.9
 cotfly1,cotfly1/XC955597.ogg,3.0,-27.3597,-55.9097,birdclef-2025/train_audio/cotfly1/XC955597.ogg,Aves,6.3
 cotfly1,cotfly1/XC959120.ogg,5.0,-27.3597,-55.9097,birdclef-2025/train_audio/cotfly1/XC959120.ogg,Aves,11.1
@@ -1984,6 +2011,7 @@ crcwoo1,crcwoo1/XC14691.ogg,5.0,-1.1048,-76.7317,birdclef-2025/train_audio/crcwo
 crcwoo1,crcwoo1/XC148606.ogg,4.0,-2.9578,-58.348,birdclef-2025/train_audio/crcwoo1/XC148606.ogg,Aves,14.736
 crcwoo1,crcwoo1/XC167559.ogg,4.0,9.166,-79.404,birdclef-2025/train_audio/crcwoo1/XC167559.ogg,Aves,18.91265625
 crcwoo1,crcwoo1/XC178499.ogg,3.0,-14.8264,-56.4241,birdclef-2025/train_audio/crcwoo1/XC178499.ogg,Aves,3.1085625
+crcwoo1,crcwoo1/XC194116.ogg,2.5,9.215,-79.396,birdclef-2025/train_audio/crcwoo1/XC194116.ogg,Aves,2.14203125
 crcwoo1,crcwoo1/XC197472.ogg,5.0,8.8211,-70.5013,birdclef-2025/train_audio/crcwoo1/XC197472.ogg,Aves,14.96815625
 crcwoo1,crcwoo1/XC212052.ogg,4.0,-13.7349,-46.3569,birdclef-2025/train_audio/crcwoo1/XC212052.ogg,Aves,15.444
 crcwoo1,crcwoo1/XC238092.ogg,4.0,-1.542,-77.751,birdclef-2025/train_audio/crcwoo1/XC238092.ogg,Aves,13.949375
@@ -2461,6 +2489,7 @@ greegr,greegr/XC655961.ogg,4.0,35.8217,126.4637,birdclef-2025/train_audio/greegr
 greegr,greegr/XC661723.ogg,5.0,32.2003,-115.1111,birdclef-2025/train_audio/greegr/XC661723.ogg,Aves,9.696
 greegr,greegr/XC663143.ogg,5.0,19.3128,-99.6982,birdclef-2025/train_audio/greegr/XC663143.ogg,Aves,10.344
 greegr,greegr/XC665078.ogg,3.5,-16.5849,-49.1211,birdclef-2025/train_audio/greegr/XC665078.ogg,Aves,5.7730625
+greegr,greegr/XC665088.ogg,2.5,-16.5631,-49.285,birdclef-2025/train_audio/greegr/XC665088.ogg,Aves,4.3885625
 greegr,greegr/XC669141.ogg,4.0,42.9037,13.9077,birdclef-2025/train_audio/greegr/XC669141.ogg,Aves,14.952
 greegr,greegr/XC669249.ogg,4.0,19.309,-99.6935,birdclef-2025/train_audio/greegr/XC669249.ogg,Aves,9.351
 greegr,greegr/XC669884.ogg,4.0,58.7896,26.9639,birdclef-2025/train_audio/greegr/XC669884.ogg,Aves,6.024
@@ -2514,6 +2543,7 @@ greegr,greegr/XC863045.ogg,5.0,20.6091,58.1863,birdclef-2025/train_audio/greegr/
 greegr,greegr/XC864254.ogg,4.0,45.618,15.8084,birdclef-2025/train_audio/greegr/XC864254.ogg,Aves,5.537
 greegr,greegr/XC871419.ogg,4.0,36.3835,-6.2007,birdclef-2025/train_audio/greegr/XC871419.ogg,Aves,4.992
 greegr,greegr/XC878767.ogg,4.0,-10.2543,-36.3716,birdclef-2025/train_audio/greegr/XC878767.ogg,Aves,14.17134375
+greegr,greegr/XC880848.ogg,2.5,-16.5631,-49.285,birdclef-2025/train_audio/greegr/XC880848.ogg,Aves,7.627
 greegr,greegr/XC890192.ogg,3.0,13.0517,100.0809,birdclef-2025/train_audio/greegr/XC890192.ogg,Aves,6.31709375
 greegr,greegr/XC896643.ogg,5.0,49.4532,0.3245,birdclef-2025/train_audio/greegr/XC896643.ogg,Aves,9.00946875
 greegr,greegr/XC897905.ogg,5.0,48.0453,-4.6979,birdclef-2025/train_audio/greegr/XC897905.ogg,Aves,9.43659375
@@ -2543,13 +2573,17 @@ greibi1,greibi1/XC2793.ogg,5.0,-14.9001,-64.7167,birdclef-2025/train_audio/greib
 greibi1,greibi1/XC307916.ogg,4.0,0.2143,-51.0215,birdclef-2025/train_audio/greibi1/XC307916.ogg,Aves,11.76
 greibi1,greibi1/XC323649.ogg,4.0,-9.2431,-49.9641,birdclef-2025/train_audio/greibi1/XC323649.ogg,Aves,14.7069375
 greibi1,greibi1/XC326893.ogg,4.0,4.8507,-73.266,birdclef-2025/train_audio/greibi1/XC326893.ogg,Aves,12.984
+greibi1,greibi1/XC331478.ogg,2.5,-23.456,-45.0754,birdclef-2025/train_audio/greibi1/XC331478.ogg,Aves,13.81878125
 greibi1,greibi1/XC345399.ogg,3.5,-14.0315,-64.9007,birdclef-2025/train_audio/greibi1/XC345399.ogg,Aves,8.67265625
 greibi1,greibi1/XC393338.ogg,3.5,-3.3943,-60.3028,birdclef-2025/train_audio/greibi1/XC393338.ogg,Aves,14.001625
 greibi1,greibi1/XC414170.ogg,4.0,-16.6003,-49.2802,birdclef-2025/train_audio/greibi1/XC414170.ogg,Aves,4.91103125
 greibi1,greibi1/XC414171.ogg,3.5,-16.5728,-49.3122,birdclef-2025/train_audio/greibi1/XC414171.ogg,Aves,16.87509375
+greibi1,greibi1/XC420513.ogg,2.5,-23.4431,-45.0727,birdclef-2025/train_audio/greibi1/XC420513.ogg,Aves,17.08409375
+greibi1,greibi1/XC420514.ogg,2.5,-23.4431,-45.0727,birdclef-2025/train_audio/greibi1/XC420514.ogg,Aves,6.373875
 greibi1,greibi1/XC431034.ogg,4.0,-29.0229,-50.7832,birdclef-2025/train_audio/greibi1/XC431034.ogg,Aves,7.944
 greibi1,greibi1/XC431943.ogg,4.0,-22.8842,-48.4442,birdclef-2025/train_audio/greibi1/XC431943.ogg,Aves,3.03
 greibi1,greibi1/XC443405.ogg,3.5,-14.625,-49.0051,birdclef-2025/train_audio/greibi1/XC443405.ogg,Aves,6.71346875
+greibi1,greibi1/XC454945.ogg,2.5,-22.3307,-46.9454,birdclef-2025/train_audio/greibi1/XC454945.ogg,Aves,9.97878125
 greibi1,greibi1/XC46342.ogg,5.0,-16.5122,-56.7126,birdclef-2025/train_audio/greibi1/XC46342.ogg,Aves,15.17715625
 greibi1,greibi1/XC490110.ogg,4.0,-9.595,-70.179,birdclef-2025/train_audio/greibi1/XC490110.ogg,Aves,17.3191875
 greibi1,greibi1/XC496458.ogg,4.0,-22.473,-48.5638,birdclef-2025/train_audio/greibi1/XC496458.ogg,Aves,19.7485625
@@ -2714,6 +2748,7 @@ grekis,grekis/XC616858.ogg,5.0,-23.6521,-46.6919,birdclef-2025/train_audio/greki
 grekis,grekis/XC620889.ogg,5.0,-30.856,-62.929,birdclef-2025/train_audio/grekis/XC620889.ogg,Aves,4.20571875
 grekis,grekis/XC621866.ogg,5.0,10.469,-66.8362,birdclef-2025/train_audio/grekis/XC621866.ogg,Aves,13.824
 grekis,grekis/XC623636.ogg,3.5,9.1211,-79.7149,birdclef-2025/train_audio/grekis/XC623636.ogg,Aves,11.389375
+grekis,grekis/XC624603.ogg,2.5,9.129,-79.7155,birdclef-2025/train_audio/grekis/XC624603.ogg,Aves,9.11675
 grekis,grekis/XC630555.ogg,4.0,-32.2341,-58.1302,birdclef-2025/train_audio/grekis/XC630555.ogg,Aves,14.471
 grekis,grekis/XC646553.ogg,5.0,-9.7166,-35.801,birdclef-2025/train_audio/grekis/XC646553.ogg,Aves,3.50040625
 grekis,grekis/XC649813.ogg,5.0,17.143,-96.7499,birdclef-2025/train_audio/grekis/XC649813.ogg,Aves,5.0155
@@ -2859,12 +2894,14 @@ grnkin,grnkin/XC275282.ogg,5.0,-2.517,-79.655,birdclef-2025/train_audio/grnkin/X
 grnkin,grnkin/XC286577.ogg,4.0,-22.4508,-42.7735,birdclef-2025/train_audio/grnkin/XC286577.ogg,Aves,4.67590625
 grnkin,grnkin/XC302316.ogg,3.0,28.31,-97.2922,birdclef-2025/train_audio/grnkin/XC302316.ogg,Aves,7.47103125
 grnkin,grnkin/XC302399.ogg,3.0,15.7709,-87.1317,birdclef-2025/train_audio/grnkin/XC302399.ogg,Aves,13.71428125
+grnkin,grnkin/XC328490.ogg,2.5,14.6925,-87.0352,birdclef-2025/train_audio/grnkin/XC328490.ogg,Aves,14.7853125
 grnkin,grnkin/XC360841.ogg,3.0,9.5013,-75.3504,birdclef-2025/train_audio/grnkin/XC360841.ogg,Aves,10.08325
 grnkin,grnkin/XC381810.ogg,5.0,-16.5034,-56.7451,birdclef-2025/train_audio/grnkin/XC381810.ogg,Aves,14.31509375
 grnkin,grnkin/XC388477.ogg,4.0,26.9122,-108.9137,birdclef-2025/train_audio/grnkin/XC388477.ogg,Aves,12.264
 grnkin,grnkin/XC400952.ogg,4.5,27.7834,-109.8984,birdclef-2025/train_audio/grnkin/XC400952.ogg,Aves,12.56490625
 grnkin,grnkin/XC400955.ogg,3.0,27.7834,-109.8984,birdclef-2025/train_audio/grnkin/XC400955.ogg,Aves,9.19509375
 grnkin,grnkin/XC400956.ogg,5.0,27.7834,-109.8984,birdclef-2025/train_audio/grnkin/XC400956.ogg,Aves,9.11675
+grnkin,grnkin/XC400957.ogg,2.5,27.7834,-109.8984,birdclef-2025/train_audio/grnkin/XC400957.ogg,Aves,18.4424375
 grnkin,grnkin/XC443235.ogg,3.0,9.5513,-79.6598,birdclef-2025/train_audio/grnkin/XC443235.ogg,Aves,11.10203125
 grnkin,grnkin/XC446434.ogg,4.0,27.7834,-109.8984,birdclef-2025/train_audio/grnkin/XC446434.ogg,Aves,6.55675
 grnkin,grnkin/XC446435.ogg,4.0,26.9122,-108.9137,birdclef-2025/train_audio/grnkin/XC446435.ogg,Aves,17.76325
@@ -2989,6 +3026,7 @@ gycwor1,gycwor1/XC872676.ogg,4.0,-16.5861,-50.3034,birdclef-2025/train_audio/gyc
 gycwor1,gycwor1/XC895302.ogg,3.0,4.1114,-52.6294,birdclef-2025/train_audio/gycwor1/XC895302.ogg,Aves,19.40896875
 gycwor1,gycwor1/XC943585.ogg,4.0,-25.6817,-54.4538,birdclef-2025/train_audio/gycwor1/XC943585.ogg,Aves,16.37878125
 gycwor1,gycwor1/XC946029.ogg,4.0,3.5026,-76.3552,birdclef-2025/train_audio/gycwor1/XC946029.ogg,Aves,17.29125
+labter1,labter1/XC118874.ogg,2.5,-9.9826,-50.0151,birdclef-2025/train_audio/labter1/XC118874.ogg,Aves,14.7330625
 labter1,labter1/XC179537.ogg,4.0,-2.3734,-65.2598,birdclef-2025/train_audio/labter1/XC179537.ogg,Aves,13.824
 labter1,labter1/XC182559.ogg,5.0,-0.4806,-75.3593,birdclef-2025/train_audio/labter1/XC182559.ogg,Aves,8.96
 labter1,labter1/XC244963.ogg,5.0,5.3131,-71.3681,birdclef-2025/train_audio/labter1/XC244963.ogg,Aves,7.0791875
@@ -3065,7 +3103,9 @@ laufal1,laufal1/XC604858.ogg,4.0,3.8232,-76.779,birdclef-2025/train_audio/laufal
 laufal1,laufal1/XC620903.ogg,4.0,-25.7126,-54.4307,birdclef-2025/train_audio/laufal1/XC620903.ogg,Aves,16.30040625
 laufal1,laufal1/XC655735.ogg,4.0,-22.9434,-43.0763,birdclef-2025/train_audio/laufal1/XC655735.ogg,Aves,13.844
 laufal1,laufal1/XC662448.ogg,3.0,5.5742,-74.9,birdclef-2025/train_audio/laufal1/XC662448.ogg,Aves,14.889
+laufal1,laufal1/XC685065.ogg,2.5,19.2693,-103.7263,birdclef-2025/train_audio/laufal1/XC685065.ogg,Aves,7.944
 laufal1,laufal1/XC692843.ogg,4.0,0.2029,-51.0869,birdclef-2025/train_audio/laufal1/XC692843.ogg,Aves,7.653875
+laufal1,laufal1/XC706810.ogg,2.5,-16.5631,-49.285,birdclef-2025/train_audio/laufal1/XC706810.ogg,Aves,11.0236875
 laufal1,laufal1/XC732199.ogg,3.0,10.2832,-85.8331,birdclef-2025/train_audio/laufal1/XC732199.ogg,Aves,17.568
 laufal1,laufal1/XC749736.ogg,5.0,9.7776,-84.3673,birdclef-2025/train_audio/laufal1/XC749736.ogg,Aves,5.472
 laufal1,laufal1/XC754663.ogg,3.0,-27.5302,-56.6027,birdclef-2025/train_audio/laufal1/XC754663.ogg,Aves,13.78196875
@@ -3087,6 +3127,7 @@ leagre,leagre/XC174449.ogg,3.0,-27.4218,-49.5601,birdclef-2025/train_audio/leagr
 leagre,leagre/XC257015.ogg,5.0,-17.767,-63.067,birdclef-2025/train_audio/leagre/XC257015.ogg,Aves,10.8408125
 leagre,leagre/XC291869.ogg,3.0,13.2885,-87.5087,birdclef-2025/train_audio/leagre/XC291869.ogg,Aves,11.650625
 leagre,leagre/XC312735.ogg,4.0,28.2563,-96.7946,birdclef-2025/train_audio/leagre/XC312735.ogg,Aves,8.3330625
+leagre,leagre/XC385286.ogg,2.5,9.9813,-69.5325,birdclef-2025/train_audio/leagre/XC385286.ogg,Aves,9.97878125
 leagre,leagre/XC385290.ogg,3.5,9.9813,-69.5325,birdclef-2025/train_audio/leagre/XC385290.ogg,Aves,10.9191875
 leagre,leagre/XC385292.ogg,3.0,9.9813,-69.5325,birdclef-2025/train_audio/leagre/XC385292.ogg,Aves,14.001625
 leagre,leagre/XC385343.ogg,3.0,9.9813,-69.5325,birdclef-2025/train_audio/leagre/XC385343.ogg,Aves,10.57959375
@@ -3151,6 +3192,7 @@ linwoo1,linwoo1/XC275322.ogg,5.0,0.75,-78.917,birdclef-2025/train_audio/linwoo1/
 linwoo1,linwoo1/XC275323.ogg,5.0,0.883,-78.8,birdclef-2025/train_audio/linwoo1/XC275323.ogg,Aves,7.549375
 linwoo1,linwoo1/XC282442.ogg,5.0,9.351,-83.9784,birdclef-2025/train_audio/linwoo1/XC282442.ogg,Aves,5.17225
 linwoo1,linwoo1/XC286667.ogg,5.0,-16.6931,-52.1334,birdclef-2025/train_audio/linwoo1/XC286667.ogg,Aves,4.632
+linwoo1,linwoo1/XC288270.ogg,2.5,13.9909,-87.1798,birdclef-2025/train_audio/linwoo1/XC288270.ogg,Aves,15.333875
 linwoo1,linwoo1/XC291186.ogg,3.0,-22.4001,-44.6667,birdclef-2025/train_audio/linwoo1/XC291186.ogg,Aves,6.11265625
 linwoo1,linwoo1/XC299175.ogg,4.0,-20.7882,-51.703,birdclef-2025/train_audio/linwoo1/XC299175.ogg,Aves,17.28
 linwoo1,linwoo1/XC317598.ogg,5.0,18.8983,-104.0324,birdclef-2025/train_audio/linwoo1/XC317598.ogg,Aves,5.98203125
@@ -3190,6 +3232,7 @@ linwoo1,linwoo1/XC443232.ogg,3.0,9.5513,-79.6598,birdclef-2025/train_audio/linwo
 linwoo1,linwoo1/XC451312.ogg,4.0,26.9847,-108.9437,birdclef-2025/train_audio/linwoo1/XC451312.ogg,Aves,9.76978125
 linwoo1,linwoo1/XC465440.ogg,5.0,9.7776,-84.3673,birdclef-2025/train_audio/linwoo1/XC465440.ogg,Aves,10.50121875
 linwoo1,linwoo1/XC465441.ogg,5.0,9.7776,-84.3673,birdclef-2025/train_audio/linwoo1/XC465441.ogg,Aves,13.4008125
+linwoo1,linwoo1/XC471130.ogg,2.5,0.898,-79.605,birdclef-2025/train_audio/linwoo1/XC471130.ogg,Aves,4.17959375
 linwoo1,linwoo1/XC474557.ogg,3.0,20.491,-87.7315,birdclef-2025/train_audio/linwoo1/XC474557.ogg,Aves,12.695
 linwoo1,linwoo1/XC479419.ogg,4.0,-9.546,-70.023,birdclef-2025/train_audio/linwoo1/XC479419.ogg,Aves,4.4669375
 linwoo1,linwoo1/XC487246.ogg,4.0,-16.6869,-49.2648,birdclef-2025/train_audio/linwoo1/XC487246.ogg,Aves,6.478
@@ -3286,6 +3329,7 @@ littin1,littin1/XC387848.ogg,4.0,5.6709,-67.5551,birdclef-2025/train_audio/litti
 littin1,littin1/XC393336.ogg,4.0,-2.4042,-59.8673,birdclef-2025/train_audio/littin1/XC393336.ogg,Aves,15.69959375
 littin1,littin1/XC400315.ogg,4.0,-15.6421,-57.1899,birdclef-2025/train_audio/littin1/XC400315.ogg,Aves,4.23184375
 littin1,littin1/XC403196.ogg,3.0,-16.4314,-49.1224,birdclef-2025/train_audio/littin1/XC403196.ogg,Aves,11.70284375
+littin1,littin1/XC403410.ogg,2.5,4.7216,-52.3073,birdclef-2025/train_audio/littin1/XC403410.ogg,Aves,16.944
 littin1,littin1/XC424382.ogg,4.0,4.4804,-75.1069,birdclef-2025/train_audio/littin1/XC424382.ogg,Aves,19.848
 littin1,littin1/XC439207.ogg,3.0,-9.5627,-55.9207,birdclef-2025/train_audio/littin1/XC439207.ogg,Aves,6.888
 littin1,littin1/XC441760.ogg,4.0,-2.3731,-59.968,birdclef-2025/train_audio/littin1/XC441760.ogg,Aves,5.511
@@ -3294,6 +3338,7 @@ littin1,littin1/XC472327.ogg,4.0,-22.4312,-42.0337,birdclef-2025/train_audio/lit
 littin1,littin1/XC477845.ogg,3.0,10.4167,-67.7834,birdclef-2025/train_audio/littin1/XC477845.ogg,Aves,16.0391875
 littin1,littin1/XC493436.ogg,5.0,-6.3761,-47.1085,birdclef-2025/train_audio/littin1/XC493436.ogg,Aves,5.59021875
 littin1,littin1/XC494772.ogg,4.0,-15.2798,-39.0897,birdclef-2025/train_audio/littin1/XC494772.ogg,Aves,10.109375
+littin1,littin1/XC537441.ogg,2.5,4.351,-74.652,birdclef-2025/train_audio/littin1/XC537441.ogg,Aves,16.16978125
 littin1,littin1/XC538980.ogg,4.0,4.7962,-52.4577,birdclef-2025/train_audio/littin1/XC538980.ogg,Aves,13.3224375
 littin1,littin1/XC552350.ogg,4.0,-9.2093,-35.8681,birdclef-2025/train_audio/littin1/XC552350.ogg,Aves,7.653875
 littin1,littin1/XC568542.ogg,3.0,-9.7747,-36.2349,birdclef-2025/train_audio/littin1/XC568542.ogg,Aves,16.613875
@@ -3443,12 +3488,14 @@ palhor2,palhor2/XC128812.ogg,5.0,-16.7581,-56.8764,birdclef-2025/train_audio/pal
 palhor2,palhor2/XC129028.ogg,5.0,-12.0478,-69.6759,birdclef-2025/train_audio/palhor2/XC129028.ogg,Aves,11.23265625
 palhor2,palhor2/XC142666.ogg,3.5,-10.7427,-68.2818,birdclef-2025/train_audio/palhor2/XC142666.ogg,Aves,12.46040625
 palhor2,palhor2/XC144811.ogg,3.5,-3.5128,-72.4948,birdclef-2025/train_audio/palhor2/XC144811.ogg,Aves,19.226125
+palhor2,palhor2/XC144812.ogg,2.5,-3.5128,-72.4948,birdclef-2025/train_audio/palhor2/XC144812.ogg,Aves,7.39265625
 palhor2,palhor2/XC206392.ogg,4.0,-7.9408,-39.2954,birdclef-2025/train_audio/palhor2/XC206392.ogg,Aves,13.2963125
 palhor2,palhor2/XC2425.ogg,3.0,-11.0192,-66.0987,birdclef-2025/train_audio/palhor2/XC2425.ogg,Aves,12.3036875
 palhor2,palhor2/XC2440.ogg,4.5,-11.0192,-66.0987,birdclef-2025/train_audio/palhor2/XC2440.ogg,Aves,13.5836875
 palhor2,palhor2/XC249968.ogg,4.0,-2.55,-77.9,birdclef-2025/train_audio/palhor2/XC249968.ogg,Aves,9.76978125
 palhor2,palhor2/XC257071.ogg,5.0,-6.733,-76.383,birdclef-2025/train_audio/palhor2/XC257071.ogg,Aves,11.546125
 palhor2,palhor2/XC298935.ogg,3.5,-3.523,-73.0592,birdclef-2025/train_audio/palhor2/XC298935.ogg,Aves,18.5469375
+palhor2,palhor2/XC298936.ogg,2.5,-3.523,-73.0592,birdclef-2025/train_audio/palhor2/XC298936.ogg,Aves,12.48653125
 palhor2,palhor2/XC298939.ogg,4.0,-3.4501,-72.8801,birdclef-2025/train_audio/palhor2/XC298939.ogg,Aves,12.8
 palhor2,palhor2/XC298940.ogg,4.0,-3.4501,-72.8801,birdclef-2025/train_audio/palhor2/XC298940.ogg,Aves,13.03509375
 palhor2,palhor2/XC299104.ogg,3.0,-12.3992,-70.702,birdclef-2025/train_audio/palhor2/XC299104.ogg,Aves,5.43346875
@@ -3518,6 +3565,7 @@ paltan1,paltan1/XC576037.ogg,5.0,4.5585,-75.3275,birdclef-2025/train_audio/palta
 paltan1,paltan1/XC589591.ogg,5.0,-9.626,-35.8062,birdclef-2025/train_audio/paltan1/XC589591.ogg,Aves,6.34775
 paltan1,paltan1/XC599510.ogg,3.0,-16.6003,-49.2802,birdclef-2025/train_audio/paltan1/XC599510.ogg,Aves,16.37878125
 paltan1,paltan1/XC64265.ogg,4.0,-11.8667,-71.3667,birdclef-2025/train_audio/paltan1/XC64265.ogg,Aves,14.8114375
+paltan1,paltan1/XC697124.ogg,2.5,-9.5894,-35.721,birdclef-2025/train_audio/paltan1/XC697124.ogg,Aves,11.493875
 paltan1,paltan1/XC699600.ogg,3.5,-16.0538,-49.604,birdclef-2025/train_audio/paltan1/XC699600.ogg,Aves,14.49796875
 paltan1,paltan1/XC708162.ogg,4.0,-13.7656,-66.1005,birdclef-2025/train_audio/paltan1/XC708162.ogg,Aves,4.32
 paltan1,paltan1/XC719958.ogg,4.0,11.1229,-74.095,birdclef-2025/train_audio/paltan1/XC719958.ogg,Aves,19.435
@@ -3560,6 +3608,7 @@ pavpig2,pavpig2/XC225325.ogg,5.0,7.059,-69.494,birdclef-2025/train_audio/pavpig2
 pavpig2,pavpig2/XC238760.ogg,4.0,-1.673,-80.786,birdclef-2025/train_audio/pavpig2/XC238760.ogg,Aves,10.8408125
 pavpig2,pavpig2/XC257595.ogg,5.0,-0.548,-76.041,birdclef-2025/train_audio/pavpig2/XC257595.ogg,Aves,13.3485625
 pavpig2,pavpig2/XC257598.ogg,5.0,-2.159,-80.037,birdclef-2025/train_audio/pavpig2/XC257598.ogg,Aves,17.3191875
+pavpig2,pavpig2/XC301193.ogg,2.5,14.9029,-87.9541,birdclef-2025/train_audio/pavpig2/XC301193.ogg,Aves,17.65878125
 pavpig2,pavpig2/XC325553.ogg,4.0,-2.6557,-57.9652,birdclef-2025/train_audio/pavpig2/XC325553.ogg,Aves,12.456
 pavpig2,pavpig2/XC329624.ogg,3.5,4.3864,-75.2037,birdclef-2025/train_audio/pavpig2/XC329624.ogg,Aves,13.176
 pavpig2,pavpig2/XC353930.ogg,5.0,6.0498,-74.2614,birdclef-2025/train_audio/pavpig2/XC353930.ogg,Aves,14.784
@@ -3807,10 +3856,12 @@ purgal2,purgal2/XC368530.ogg,4.0,29.951,-93.079,birdclef-2025/train_audio/purgal
 purgal2,purgal2/XC368534.ogg,4.0,29.951,-93.079,birdclef-2025/train_audio/purgal2/XC368534.ogg,Aves,11.57225
 purgal2,purgal2/XC368536.ogg,4.0,29.951,-93.079,birdclef-2025/train_audio/purgal2/XC368536.ogg,Aves,14.158375
 purgal2,purgal2/XC384710.ogg,3.0,9.9039,-71.1039,birdclef-2025/train_audio/purgal2/XC384710.ogg,Aves,10.161625
+purgal2,purgal2/XC443409.ogg,2.5,-14.625,-49.0051,birdclef-2025/train_audio/purgal2/XC443409.ogg,Aves,15.67346875
 purgal2,purgal2/XC443410.ogg,5.0,-14.625,-49.0051,birdclef-2025/train_audio/purgal2/XC443410.ogg,Aves,4.85878125
 purgal2,purgal2/XC443411.ogg,4.0,-14.625,-49.0051,birdclef-2025/train_audio/purgal2/XC443411.ogg,Aves,5.9036875
 purgal2,purgal2/XC443412.ogg,4.0,-14.625,-49.0051,birdclef-2025/train_audio/purgal2/XC443412.ogg,Aves,10.9714375
 purgal2,purgal2/XC443413.ogg,3.0,-14.625,-49.0051,birdclef-2025/train_audio/purgal2/XC443413.ogg,Aves,16.45715625
+purgal2,purgal2/XC443414.ogg,2.5,-14.625,-49.0051,birdclef-2025/train_audio/purgal2/XC443414.ogg,Aves,15.4645
 purgal2,purgal2/XC452489.ogg,3.0,-22.5055,-48.983,birdclef-2025/train_audio/purgal2/XC452489.ogg,Aves,3.312
 purgal2,purgal2/XC454933.ogg,3.0,-16.5728,-49.3122,birdclef-2025/train_audio/purgal2/XC454933.ogg,Aves,6.347
 purgal2,purgal2/XC504760.ogg,4.0,-9.2594,-35.8457,birdclef-2025/train_audio/purgal2/XC504760.ogg,Aves,10.71021875
@@ -3821,6 +3872,7 @@ purgal2,purgal2/XC623995.ogg,4.0,15.669,-96.5732,birdclef-2025/train_audio/purga
 purgal2,purgal2/XC623996.ogg,4.0,15.669,-96.5732,birdclef-2025/train_audio/purgal2/XC623996.ogg,Aves,4.832
 purgal2,purgal2/XC660135.ogg,5.0,0.9672,-76.3113,birdclef-2025/train_audio/purgal2/XC660135.ogg,Aves,4.88490625
 purgal2,purgal2/XC680724.ogg,3.0,-25.4334,-49.3011,birdclef-2025/train_audio/purgal2/XC680724.ogg,Aves,2.61225
+purgal2,purgal2/XC700097.ogg,2.5,25.7078,-80.7631,birdclef-2025/train_audio/purgal2/XC700097.ogg,Aves,4.68
 purgal2,purgal2/XC705557.ogg,4.0,25.7551,-80.7664,birdclef-2025/train_audio/purgal2/XC705557.ogg,Aves,10.3445
 purgal2,purgal2/XC707781.ogg,4.0,-30.2561,-57.5979,birdclef-2025/train_audio/purgal2/XC707781.ogg,Aves,12.96
 purgal2,purgal2/XC723138.ogg,5.0,8.8117,-82.9609,birdclef-2025/train_audio/purgal2/XC723138.ogg,Aves,6.696
@@ -3830,6 +3882,7 @@ purgal2,purgal2/XC769500.ogg,3.0,-6.3761,-47.1085,birdclef-2025/train_audio/purg
 purgal2,purgal2/XC769510.ogg,5.0,-6.3761,-47.1085,birdclef-2025/train_audio/purgal2/XC769510.ogg,Aves,9.84815625
 purgal2,purgal2/XC769512.ogg,4.0,-6.3761,-47.1085,birdclef-2025/train_audio/purgal2/XC769512.ogg,Aves,16.69225
 purgal2,purgal2/XC769517.ogg,4.0,-6.3761,-47.1085,birdclef-2025/train_audio/purgal2/XC769517.ogg,Aves,7.47103125
+purgal2,purgal2/XC819145.ogg,2.5,29.5733,-94.3902,birdclef-2025/train_audio/purgal2/XC819145.ogg,Aves,5.27675
 purgal2,purgal2/XC85083.ogg,3.5,-12.5834,-41.3667,birdclef-2025/train_audio/purgal2/XC85083.ogg,Aves,19.226125
 purgal2,purgal2/XC941308.ogg,5.0,26.4855,-80.1623,birdclef-2025/train_audio/purgal2/XC941308.ogg,Aves,13.24409375
 ragmac1,ragmac1/XC125937.ogg,5.0,-1.095,-52.653,birdclef-2025/train_audio/ragmac1/XC125937.ogg,Aves,13.13959375
@@ -3970,6 +4023,7 @@ rinkin1,rinkin1/XC391256.ogg,4.0,25.6603,-100.2612,birdclef-2025/train_audio/rin
 rinkin1,rinkin1/XC393149.ogg,4.0,-15.6065,-56.0641,birdclef-2025/train_audio/rinkin1/XC393149.ogg,Aves,17.76325
 rinkin1,rinkin1/XC396165.ogg,4.0,-22.4508,-42.7735,birdclef-2025/train_audio/rinkin1/XC396165.ogg,Aves,17.016
 rinkin1,rinkin1/XC415207.ogg,4.0,-25.0719,-58.141,birdclef-2025/train_audio/rinkin1/XC415207.ogg,Aves,16.24815625
+rinkin1,rinkin1/XC415844.ogg,2.5,-16.5728,-49.3122,birdclef-2025/train_audio/rinkin1/XC415844.ogg,Aves,15.07265625
 rinkin1,rinkin1/XC419476.ogg,3.0,4.7962,-52.4577,birdclef-2025/train_audio/rinkin1/XC419476.ogg,Aves,19.7485625
 rinkin1,rinkin1/XC419905.ogg,3.0,-22.8842,-48.4442,birdclef-2025/train_audio/rinkin1/XC419905.ogg,Aves,12.225
 rinkin1,rinkin1/XC423017.ogg,4.0,-18.002,-40.381,birdclef-2025/train_audio/rinkin1/XC423017.ogg,Aves,9.528
@@ -3993,6 +4047,7 @@ rinkin1,rinkin1/XC550263.ogg,4.0,-26.5723,-53.8018,birdclef-2025/train_audio/rin
 rinkin1,rinkin1/XC552726.ogg,5.0,4.351,-74.652,birdclef-2025/train_audio/rinkin1/XC552726.ogg,Aves,15.4645
 rinkin1,rinkin1/XC56958.ogg,3.0,10.9901,-74.7451,birdclef-2025/train_audio/rinkin1/XC56958.ogg,Aves,10.7885625
 rinkin1,rinkin1/XC580724.ogg,3.0,10.6874,-84.1804,birdclef-2025/train_audio/rinkin1/XC580724.ogg,Aves,14.053
+rinkin1,rinkin1/XC580806.ogg,2.5,6.0615,-74.4925,birdclef-2025/train_audio/rinkin1/XC580806.ogg,Aves,3.89225
 rinkin1,rinkin1/XC586843.ogg,4.0,-11.5833,-72.95,birdclef-2025/train_audio/rinkin1/XC586843.ogg,Aves,12.384
 rinkin1,rinkin1/XC592830.ogg,4.0,1.4898,-75.6801,birdclef-2025/train_audio/rinkin1/XC592830.ogg,Aves,8.3591875
 rinkin1,rinkin1/XC602387.ogg,3.5,-22.9434,-43.0763,birdclef-2025/train_audio/rinkin1/XC602387.ogg,Aves,17.345
@@ -4109,6 +4164,7 @@ roahaw,roahaw/XC51324.ogg,4.0,-22.1931,-63.9445,birdclef-2025/train_audio/roahaw
 roahaw,roahaw/XC51325.ogg,4.0,-22.1931,-63.9445,birdclef-2025/train_audio/roahaw/XC51325.ogg,Aves,13.27021875
 roahaw,roahaw/XC51326.ogg,4.0,-34.2342,-58.8861,birdclef-2025/train_audio/roahaw/XC51326.ogg,Aves,5.38121875
 roahaw,roahaw/XC514726.ogg,3.0,14.3572,-87.6545,birdclef-2025/train_audio/roahaw/XC514726.ogg,Aves,16.5355
+roahaw,roahaw/XC518784.ogg,2.5,-16.5631,-49.285,birdclef-2025/train_audio/roahaw/XC518784.ogg,Aves,12.6955
 roahaw,roahaw/XC52691.ogg,4.0,4.5331,-75.4167,birdclef-2025/train_audio/roahaw/XC52691.ogg,Aves,11.15428125
 roahaw,roahaw/XC533566.ogg,4.0,-22.8788,-42.9365,birdclef-2025/train_audio/roahaw/XC533566.ogg,Aves,5.067
 roahaw,roahaw/XC536457.ogg,3.0,-8.7512,-68.9938,birdclef-2025/train_audio/roahaw/XC536457.ogg,Aves,8.2285625
@@ -4128,6 +4184,7 @@ roahaw,roahaw/XC626292.ogg,4.0,-16.6003,-49.2802,birdclef-2025/train_audio/roaha
 roahaw,roahaw/XC63198.ogg,4.0,-13.0501,-71.5564,birdclef-2025/train_audio/roahaw/XC63198.ogg,Aves,7.7845
 roahaw,roahaw/XC672029.ogg,4.0,4.3307,-74.3726,birdclef-2025/train_audio/roahaw/XC672029.ogg,Aves,2.56
 roahaw,roahaw/XC677014.ogg,3.0,-25.0984,-49.2401,birdclef-2025/train_audio/roahaw/XC677014.ogg,Aves,8.15021875
+roahaw,roahaw/XC706973.ogg,2.5,-16.0538,-49.604,birdclef-2025/train_audio/roahaw/XC706973.ogg,Aves,10.266125
 roahaw,roahaw/XC722089.ogg,3.0,-14.625,-49.0051,birdclef-2025/train_audio/roahaw/XC722089.ogg,Aves,2.899
 roahaw,roahaw/XC723139.ogg,4.0,8.8117,-82.9609,birdclef-2025/train_audio/roahaw/XC723139.ogg,Aves,15.768
 roahaw,roahaw/XC738971.ogg,4.5,-16.0538,-49.604,birdclef-2025/train_audio/roahaw/XC738971.ogg,Aves,19.069375
@@ -4152,6 +4209,7 @@ roahaw,roahaw/XC843462.ogg,5.0,-25.627,-54.453,birdclef-2025/train_audio/roahaw/
 roahaw,roahaw/XC843790.ogg,5.0,5.0876,-75.5025,birdclef-2025/train_audio/roahaw/XC843790.ogg,Aves,5.9326875
 roahaw,roahaw/XC843902.ogg,4.0,-0.0166,-78.9875,birdclef-2025/train_audio/roahaw/XC843902.ogg,Aves,19.33259375
 roahaw,roahaw/XC859233.ogg,5.0,-16.9039,-49.2218,birdclef-2025/train_audio/roahaw/XC859233.ogg,Aves,13.557
+roahaw,roahaw/XC872659.ogg,2.5,-16.6101,-50.2978,birdclef-2025/train_audio/roahaw/XC872659.ogg,Aves,12.094
 roahaw,roahaw/XC884465.ogg,5.0,18.1406,-94.4467,birdclef-2025/train_audio/roahaw/XC884465.ogg,Aves,18.02128125
 roahaw,roahaw/XC892910.ogg,3.0,-0.6756,-77.6014,birdclef-2025/train_audio/roahaw/XC892910.ogg,Aves,16.1029375
 roahaw,roahaw/XC897345.ogg,3.0,-31.87,-58.2088,birdclef-2025/train_audio/roahaw/XC897345.ogg,Aves,2.448
@@ -4257,6 +4315,7 @@ rufmot1,rufmot1/XC10485.ogg,3.0,9.1334,-79.6501,birdclef-2025/train_audio/rufmot
 rufmot1,rufmot1/XC238036.ogg,4.0,-0.593,-79.363,birdclef-2025/train_audio/rufmot1/XC238036.ogg,Aves,17.03184375
 rufmot1,rufmot1/XC238039.ogg,5.0,-0.593,-79.363,birdclef-2025/train_audio/rufmot1/XC238039.ogg,Aves,14.6285625
 rufmot1,rufmot1/XC238043.ogg,3.0,1.086,-78.643,birdclef-2025/train_audio/rufmot1/XC238043.ogg,Aves,7.549375
+rufmot1,rufmot1/XC261827.ogg,2.5,0.883,-78.8,birdclef-2025/train_audio/rufmot1/XC261827.ogg,Aves,14.49796875
 rufmot1,rufmot1/XC261828.ogg,5.0,0.883,-78.8,birdclef-2025/train_audio/rufmot1/XC261828.ogg,Aves,12.56490625
 rufmot1,rufmot1/XC336509.ogg,3.0,9.1332,-79.7195,birdclef-2025/train_audio/rufmot1/XC336509.ogg,Aves,8.59428125
 rufmot1,rufmot1/XC423586.ogg,4.0,-9.5046,-65.3634,birdclef-2025/train_audio/rufmot1/XC423586.ogg,Aves,8.304
@@ -4273,6 +4332,7 @@ rugdov,rugdov/XC150305.ogg,3.0,-6.521,-76.4178,birdclef-2025/train_audio/rugdov/
 rugdov,rugdov/XC17582.ogg,4.5,-22.5001,-42.7167,birdclef-2025/train_audio/rugdov/XC17582.ogg,Aves,19.7224375
 rugdov,rugdov/XC186149.ogg,3.0,-23.418,-46.789,birdclef-2025/train_audio/rugdov/XC186149.ogg,Aves,16.84896875
 rugdov,rugdov/XC20535.ogg,3.0,8.7001,-73.7834,birdclef-2025/train_audio/rugdov/XC20535.ogg,Aves,4.56
+rugdov,rugdov/XC244823.ogg,2.5,5.145,-70.9575,birdclef-2025/train_audio/rugdov/XC244823.ogg,Aves,12.43428125
 rugdov,rugdov/XC288557.ogg,5.0,-17.8673,-50.6773,birdclef-2025/train_audio/rugdov/XC288557.ogg,Aves,13.776
 rugdov,rugdov/XC290355.ogg,3.0,14.0425,-87.2198,birdclef-2025/train_audio/rugdov/XC290355.ogg,Aves,11.46775
 rugdov,rugdov/XC353900.ogg,5.0,6.8614,-73.3842,birdclef-2025/train_audio/rugdov/XC353900.ogg,Aves,7.8
@@ -4280,6 +4340,7 @@ rugdov,rugdov/XC359191.ogg,4.0,-22.3926,-42.3662,birdclef-2025/train_audio/rugdo
 rugdov,rugdov/XC419322.ogg,3.0,-17.0548,-49.6184,birdclef-2025/train_audio/rugdov/XC419322.ogg,Aves,8.2285625
 rugdov,rugdov/XC419323.ogg,3.0,-16.5631,-49.285,birdclef-2025/train_audio/rugdov/XC419323.ogg,Aves,13.4530625
 rugdov,rugdov/XC419324.ogg,3.0,-16.5631,-49.285,birdclef-2025/train_audio/rugdov/XC419324.ogg,Aves,10.9714375
+rugdov,rugdov/XC435952.ogg,2.5,6.4788,-75.8398,birdclef-2025/train_audio/rugdov/XC435952.ogg,Aves,7.512
 rugdov,rugdov/XC443524.ogg,4.0,-14.625,-49.0051,birdclef-2025/train_audio/rugdov/XC443524.ogg,Aves,11.67675
 rugdov,rugdov/XC449463.ogg,4.0,5.1567,-52.6698,birdclef-2025/train_audio/rugdov/XC449463.ogg,Aves,14.02775
 rugdov,rugdov/XC456341.ogg,4.0,4.843,-75.8187,birdclef-2025/train_audio/rugdov/XC456341.ogg,Aves,8.881625
@@ -4292,12 +4353,14 @@ rugdov,rugdov/XC688645.ogg,3.0,18.6906,-100.3324,birdclef-2025/train_audio/rugdo
 rugdov,rugdov/XC690979.ogg,5.0,1.4898,-75.6801,birdclef-2025/train_audio/rugdov/XC690979.ogg,Aves,14.053875
 rugdov,rugdov/XC690980.ogg,5.0,1.4898,-75.6801,birdclef-2025/train_audio/rugdov/XC690980.ogg,Aves,9.7175625
 rugdov,rugdov/XC690981.ogg,3.0,1.4898,-75.6801,birdclef-2025/train_audio/rugdov/XC690981.ogg,Aves,1.8546875
+rugdov,rugdov/XC695907.ogg,2.5,-16.0538,-49.604,birdclef-2025/train_audio/rugdov/XC695907.ogg,Aves,8.75103125
 rugdov,rugdov/XC720796.ogg,4.0,-9.2856,-50.0142,birdclef-2025/train_audio/rugdov/XC720796.ogg,Aves,19.67021875
 rugdov,rugdov/XC769547.ogg,5.0,-6.3761,-47.1085,birdclef-2025/train_audio/rugdov/XC769547.ogg,Aves,10.9714375
 rugdov,rugdov/XC789063.ogg,5.0,-13.3558,-47.2809,birdclef-2025/train_audio/rugdov/XC789063.ogg,Aves,9.35184375
 rugdov,rugdov/XC789234.ogg,4.0,15.6538,-93.3759,birdclef-2025/train_audio/rugdov/XC789234.ogg,Aves,14.784
 rugdov,rugdov/XC800328.ogg,3.0,-16.4727,-49.4959,birdclef-2025/train_audio/rugdov/XC800328.ogg,Aves,4.17959375
 rugdov,rugdov/XC800724.ogg,5.0,-16.4727,-49.4959,birdclef-2025/train_audio/rugdov/XC800724.ogg,Aves,11.75509375
+rugdov,rugdov/XC816979.ogg,2.5,-6.7131,-47.017,birdclef-2025/train_audio/rugdov/XC816979.ogg,Aves,5.7469375
 rugdov,rugdov/XC854380.ogg,3.0,-6.0775,-76.9791,birdclef-2025/train_audio/rugdov/XC854380.ogg,Aves,10.8468125
 rugdov,rugdov/XC863775.ogg,5.0,-18.9287,-51.679,birdclef-2025/train_audio/rugdov/XC863775.ogg,Aves,8.202
 rugdov,rugdov/XC863780.ogg,5.0,-18.9287,-51.679,birdclef-2025/train_audio/rugdov/XC863780.ogg,Aves,8.881
@@ -4425,6 +4488,7 @@ ruther1,ruther1/XC624692.ogg,3.0,1.4898,-75.6801,birdclef-2025/train_audio/ruthe
 ruther1,ruther1/XC648839.ogg,3.0,-16.57,-49.3287,birdclef-2025/train_audio/ruther1/XC648839.ogg,Aves,3.024
 ruther1,ruther1/XC657821.ogg,4.0,-16.7546,-56.8859,birdclef-2025/train_audio/ruther1/XC657821.ogg,Aves,6.63509375
 ruther1,ruther1/XC657827.ogg,4.0,-16.7546,-56.8859,birdclef-2025/train_audio/ruther1/XC657827.ogg,Aves,10.18775
+ruther1,ruther1/XC681215.ogg,2.5,-16.8078,-49.9198,birdclef-2025/train_audio/ruther1/XC681215.ogg,Aves,3.761625
 ruther1,ruther1/XC708491.ogg,3.5,-13.7656,-66.1005,birdclef-2025/train_audio/ruther1/XC708491.ogg,Aves,17.736
 ruther1,ruther1/XC708497.ogg,3.0,-13.7656,-66.1005,birdclef-2025/train_audio/ruther1/XC708497.ogg,Aves,4.176
 ruther1,ruther1/XC708677.ogg,5.0,-19.9819,-49.6801,birdclef-2025/train_audio/ruther1/XC708677.ogg,Aves,9.32571875
@@ -4438,6 +4502,7 @@ rutjac1,rutjac1/XC123677.ogg,5.0,-16.7581,-56.8764,birdclef-2025/train_audio/rut
 rutjac1,rutjac1/XC126156.ogg,4.0,17.2213,-89.6119,birdclef-2025/train_audio/rutjac1/XC126156.ogg,Aves,9.038375
 rutjac1,rutjac1/XC130918.ogg,5.0,-20.79,-42.8882,birdclef-2025/train_audio/rutjac1/XC130918.ogg,Aves,13.92325
 rutjac1,rutjac1/XC130919.ogg,5.0,-20.79,-42.8882,birdclef-2025/train_audio/rutjac1/XC130919.ogg,Aves,17.47590625
+rutjac1,rutjac1/XC162287.ogg,2.5,7.9253,-74.7835,birdclef-2025/train_audio/rutjac1/XC162287.ogg,Aves,9.11675
 rutjac1,rutjac1/XC166035.ogg,4.0,9.7751,-84.6167,birdclef-2025/train_audio/rutjac1/XC166035.ogg,Aves,6.08653125
 rutjac1,rutjac1/XC166038.ogg,4.0,9.7751,-84.6167,birdclef-2025/train_audio/rutjac1/XC166038.ogg,Aves,4.4669375
 rutjac1,rutjac1/XC166039.ogg,4.0,9.7751,-84.6167,birdclef-2025/train_audio/rutjac1/XC166039.ogg,Aves,19.8269375
@@ -4636,6 +4701,7 @@ secfly1,secfly1/XC172166.ogg,4.0,-19.2204,-42.4832,birdclef-2025/train_audio/sec
 secfly1,secfly1/XC17602.ogg,4.0,-24.2759,-48.4181,birdclef-2025/train_audio/secfly1/XC17602.ogg,Aves,9.5346875
 secfly1,secfly1/XC1844.ogg,4.0,-18.7889,-63.8723,birdclef-2025/train_audio/secfly1/XC1844.ogg,Aves,6.06040625
 secfly1,secfly1/XC245208.ogg,3.0,5.8,-72.21,birdclef-2025/train_audio/secfly1/XC245208.ogg,Aves,3.984
+secfly1,secfly1/XC245397.ogg,2.5,6.28,-71.78,birdclef-2025/train_audio/secfly1/XC245397.ogg,Aves,4.176
 secfly1,secfly1/XC258749.ogg,5.0,-2.54,-76.859,birdclef-2025/train_audio/secfly1/XC258749.ogg,Aves,17.97225
 secfly1,secfly1/XC283135.ogg,4.0,-23.6334,-45.8667,birdclef-2025/train_audio/secfly1/XC283135.ogg,Aves,3.2391875
 secfly1,secfly1/XC283136.ogg,3.5,-12.5834,-41.3667,birdclef-2025/train_audio/secfly1/XC283136.ogg,Aves,3.3436875
@@ -4712,13 +4778,16 @@ secfly1,secfly1/XC926981.ogg,5.0,-26.7756,-48.7144,birdclef-2025/train_audio/sec
 secfly1,secfly1/XC932730.ogg,5.0,-15.8751,-48.9345,birdclef-2025/train_audio/secfly1/XC932730.ogg,Aves,6.269
 secfly1,secfly1/XC934351.ogg,4.0,17.1543,-88.8522,birdclef-2025/train_audio/secfly1/XC934351.ogg,Aves,20.0
 shtfly1,shtfly1/XC10405.ogg,3.0,10.417,-67.633,birdclef-2025/train_audio/shtfly1/XC10405.ogg,Aves,1.541
+shtfly1,shtfly1/XC114378.ogg,2.5,4.535,-61.6218,birdclef-2025/train_audio/shtfly1/XC114378.ogg,Aves,17.44978125
 shtfly1,shtfly1/XC121225.ogg,3.0,-6.0832,-48.186,birdclef-2025/train_audio/shtfly1/XC121225.ogg,Aves,7.176
+shtfly1,shtfly1/XC122677.ogg,2.5,5.93,-74.834,birdclef-2025/train_audio/shtfly1/XC122677.ogg,Aves,19.9836875
 shtfly1,shtfly1/XC327964.ogg,3.0,4.8892,-73.2413,birdclef-2025/train_audio/shtfly1/XC327964.ogg,Aves,5.76
 shtfly1,shtfly1/XC335880.ogg,4.0,12.6902,-86.8053,birdclef-2025/train_audio/shtfly1/XC335880.ogg,Aves,2.97796875
 shtfly1,shtfly1/XC335884.ogg,4.0,12.6902,-86.8053,birdclef-2025/train_audio/shtfly1/XC335884.ogg,Aves,4.75428125
 shtfly1,shtfly1/XC335888.ogg,4.0,12.8852,-86.5785,birdclef-2025/train_audio/shtfly1/XC335888.ogg,Aves,1.28
 shtfly1,shtfly1/XC353931.ogg,5.0,6.0498,-74.2614,birdclef-2025/train_audio/shtfly1/XC353931.ogg,Aves,11.64
 shtfly1,shtfly1/XC354884.ogg,4.0,3.473,-60.8972,birdclef-2025/train_audio/shtfly1/XC354884.ogg,Aves,10.776
+shtfly1,shtfly1/XC379145.ogg,2.5,5.1263,-74.5643,birdclef-2025/train_audio/shtfly1/XC379145.ogg,Aves,5.424
 shtfly1,shtfly1/XC414983.ogg,4.0,15.6124,-90.3781,birdclef-2025/train_audio/shtfly1/XC414983.ogg,Aves,15.072
 shtfly1,shtfly1/XC425520.ogg,5.0,5.9002,-74.8485,birdclef-2025/train_audio/shtfly1/XC425520.ogg,Aves,6.9485625
 shtfly1,shtfly1/XC430586.ogg,3.0,15.7391,-87.4536,birdclef-2025/train_audio/shtfly1/XC430586.ogg,Aves,9.848
@@ -4798,6 +4867,7 @@ smbani,smbani/XC326994.ogg,4.0,4.8685,-73.2487,birdclef-2025/train_audio/smbani/
 smbani,smbani/XC331324.ogg,3.0,26.9247,-80.4946,birdclef-2025/train_audio/smbani/XC331324.ogg,Aves,13.296
 smbani,smbani/XC331325.ogg,4.0,26.9247,-80.4946,birdclef-2025/train_audio/smbani/XC331325.ogg,Aves,7.176
 smbani,smbani/XC342582.ogg,5.0,-23.4893,-46.5247,birdclef-2025/train_audio/smbani/XC342582.ogg,Aves,9.40409375
+smbani,smbani/XC353371.ogg,2.5,4.0863,-73.6645,birdclef-2025/train_audio/smbani/XC353371.ogg,Aves,18.312
 smbani,smbani/XC357128.ogg,4.0,-2.6557,-57.9652,birdclef-2025/train_audio/smbani/XC357128.ogg,Aves,7.92
 smbani,smbani/XC372781.ogg,3.5,8.181,-81.8675,birdclef-2025/train_audio/smbani/XC372781.ogg,Aves,5.56409375
 smbani,smbani/XC377198.ogg,5.0,0.9242,-51.2155,birdclef-2025/train_audio/smbani/XC377198.ogg,Aves,4.12734375
@@ -4845,6 +4915,7 @@ smbani,smbani/XC723784.ogg,4.0,8.5685,-80.2768,birdclef-2025/train_audio/smbani/
 smbani,smbani/XC741876.ogg,4.0,-16.5456,-49.1572,birdclef-2025/train_audio/smbani/XC741876.ogg,Aves,4.5453125
 smbani,smbani/XC769461.ogg,3.5,-6.3761,-47.1085,birdclef-2025/train_audio/smbani/XC769461.ogg,Aves,3.42203125
 smbani,smbani/XC793130.ogg,4.0,-13.3558,-47.2809,birdclef-2025/train_audio/smbani/XC793130.ogg,Aves,14.1845
+smbani,smbani/XC800086.ogg,2.5,-16.4727,-49.4959,birdclef-2025/train_audio/smbani/XC800086.ogg,Aves,7.26203125
 smbani,smbani/XC818680.ogg,4.0,-25.6823,-54.4543,birdclef-2025/train_audio/smbani/XC818680.ogg,Aves,12.56
 smbani,smbani/XC830003.ogg,4.0,20.5383,-86.8947,birdclef-2025/train_audio/smbani/XC830003.ogg,Aves,5.31084375
 smbani,smbani/XC855927.ogg,4.0,-16.6414,-39.1405,birdclef-2025/train_audio/smbani/XC855927.ogg,Aves,10.0706875
@@ -4856,6 +4927,7 @@ smbani,smbani/XC946062.ogg,4.0,3.5026,-76.3552,birdclef-2025/train_audio/smbani/
 smbani,smbani/XC957942.ogg,3.5,-16.4353,-49.3948,birdclef-2025/train_audio/smbani/XC957942.ogg,Aves,8.254
 smbani,smbani/XC958229.ogg,3.0,3.476,-76.5337,birdclef-2025/train_audio/smbani/XC958229.ogg,Aves,1.4048125
 smbani,smbani/XC959180.ogg,4.0,-27.3597,-55.9097,birdclef-2025/train_audio/smbani/XC959180.ogg,Aves,11.6
+smbani,smbani/XC961906.ogg,2.5,-27.3829,-55.9568,birdclef-2025/train_audio/smbani/XC961906.ogg,Aves,13.33496875
 snoegr,snoegr/XC143585.ogg,4.0,28.2267,-80.7645,birdclef-2025/train_audio/snoegr/XC143585.ogg,Aves,3.96
 snoegr,snoegr/XC143586.ogg,5.0,28.2267,-80.7645,birdclef-2025/train_audio/snoegr/XC143586.ogg,Aves,10.56
 snoegr,snoegr/XC143587.ogg,5.0,28.2267,-80.7645,birdclef-2025/train_audio/snoegr/XC143587.ogg,Aves,11.04
@@ -4946,6 +5018,7 @@ sobtyr1,sobtyr1/XC248624.ogg,5.0,-0.198,-78.385,birdclef-2025/train_audio/sobtyr
 sobtyr1,sobtyr1/XC248625.ogg,5.0,-0.198,-78.385,birdclef-2025/train_audio/sobtyr1/XC248625.ogg,Aves,10.05715625
 sobtyr1,sobtyr1/XC249624.ogg,4.0,-1.691,-80.595,birdclef-2025/train_audio/sobtyr1/XC249624.ogg,Aves,9.76978125
 sobtyr1,sobtyr1/XC249723.ogg,4.0,-2.159,-80.037,birdclef-2025/train_audio/sobtyr1/XC249723.ogg,Aves,9.0645
+sobtyr1,sobtyr1/XC252023.ogg,2.5,9.0017,-79.5814,birdclef-2025/train_audio/sobtyr1/XC252023.ogg,Aves,18.6514375
 sobtyr1,sobtyr1/XC257090.ogg,5.0,-6.733,-76.383,birdclef-2025/train_audio/sobtyr1/XC257090.ogg,Aves,12.61715625
 sobtyr1,sobtyr1/XC258677.ogg,5.0,-0.601,-75.244,birdclef-2025/train_audio/sobtyr1/XC258677.ogg,Aves,13.16571875
 sobtyr1,sobtyr1/XC258678.ogg,5.0,-0.267,-75.883,birdclef-2025/train_audio/sobtyr1/XC258678.ogg,Aves,9.24734375
@@ -5089,6 +5162,7 @@ socfly1,socfly1/XC186952.ogg,3.0,0.1861,-79.2265,birdclef-2025/train_audio/socfl
 socfly1,socfly1/XC194423.ogg,5.0,14.3871,-87.6153,birdclef-2025/train_audio/socfly1/XC194423.ogg,Aves,12.721625
 socfly1,socfly1/XC211542.ogg,4.0,-22.3864,-47.546,birdclef-2025/train_audio/socfly1/XC211542.ogg,Aves,5.16
 socfly1,socfly1/XC211767.ogg,5.0,15.5654,-87.9989,birdclef-2025/train_audio/socfly1/XC211767.ogg,Aves,4.02284375
+socfly1,socfly1/XC233729.ogg,2.5,10.4364,-85.7844,birdclef-2025/train_audio/socfly1/XC233729.ogg,Aves,11.493875
 socfly1,socfly1/XC242597.ogg,5.0,-22.4508,-42.7735,birdclef-2025/train_audio/socfly1/XC242597.ogg,Aves,6.936
 socfly1,socfly1/XC248741.ogg,3.0,-0.498,-76.373,birdclef-2025/train_audio/socfly1/XC248741.ogg,Aves,18.6253125
 socfly1,socfly1/XC249419.ogg,5.0,-0.915,-77.84,birdclef-2025/train_audio/socfly1/XC249419.ogg,Aves,14.053875
@@ -5105,6 +5179,7 @@ socfly1,socfly1/XC274327.ogg,3.5,12.6333,-87.1362,birdclef-2025/train_audio/socf
 socfly1,socfly1/XC275463.ogg,5.0,0.883,-78.8,birdclef-2025/train_audio/socfly1/XC275463.ogg,Aves,19.8008125
 socfly1,socfly1/XC288716.ogg,4.0,14.0425,-87.2198,birdclef-2025/train_audio/socfly1/XC288716.ogg,Aves,4.70203125
 socfly1,socfly1/XC31466.ogg,4.0,20.8042,-86.947,birdclef-2025/train_audio/socfly1/XC31466.ogg,Aves,13.19184375
+socfly1,socfly1/XC317802.ogg,2.5,8.8667,-75.7859,birdclef-2025/train_audio/socfly1/XC317802.ogg,Aves,5.51184375
 socfly1,socfly1/XC333940.ogg,3.5,15.9492,-93.8029,birdclef-2025/train_audio/socfly1/XC333940.ogg,Aves,4.93715625
 socfly1,socfly1/XC352974.ogg,3.0,-3.7538,-73.2448,birdclef-2025/train_audio/socfly1/XC352974.ogg,Aves,3.709375
 socfly1,socfly1/XC360584.ogg,3.0,9.4955,-75.3521,birdclef-2025/train_audio/socfly1/XC360584.ogg,Aves,5.198375
@@ -5129,6 +5204,7 @@ socfly1,socfly1/XC493192.ogg,5.0,-7.0908,-48.2134,birdclef-2025/train_audio/socf
 socfly1,socfly1/XC504241.ogg,3.5,-19.8189,-40.2739,birdclef-2025/train_audio/socfly1/XC504241.ogg,Aves,19.40896875
 socfly1,socfly1/XC51028.ogg,4.0,-25.7168,-54.4146,birdclef-2025/train_audio/socfly1/XC51028.ogg,Aves,9.84815625
 socfly1,socfly1/XC51032.ogg,4.0,-25.7168,-54.4146,birdclef-2025/train_audio/socfly1/XC51032.ogg,Aves,3.52653125
+socfly1,socfly1/XC518458.ogg,2.5,-16.6003,-49.2802,birdclef-2025/train_audio/socfly1/XC518458.ogg,Aves,5.6946875
 socfly1,socfly1/XC522899.ogg,5.0,17.539,-89.1111,birdclef-2025/train_audio/socfly1/XC522899.ogg,Aves,18.4163125
 socfly1,socfly1/XC539029.ogg,5.0,20.2997,-103.2637,birdclef-2025/train_audio/socfly1/XC539029.ogg,Aves,17.064
 socfly1,socfly1/XC539756.ogg,5.0,17.067,-96.722,birdclef-2025/train_audio/socfly1/XC539756.ogg,Aves,5.6685625
@@ -5253,6 +5329,7 @@ solsan,solsan/XC674349.ogg,5.0,-14.625,-49.0051,birdclef-2025/train_audio/solsan
 solsan,solsan/XC674366.ogg,5.0,-14.625,-49.0051,birdclef-2025/train_audio/solsan/XC674366.ogg,Aves,5.015
 solsan,solsan/XC674498.ogg,4.5,-14.625,-49.0051,birdclef-2025/train_audio/solsan/XC674498.ogg,Aves,9.09
 solsan,solsan/XC674502.ogg,5.0,-14.625,-49.0051,birdclef-2025/train_audio/solsan/XC674502.ogg,Aves,8.80325
+solsan,solsan/XC687792.ogg,2.5,-25.6558,-61.9969,birdclef-2025/train_audio/solsan/XC687792.ogg,Aves,7.96734375
 solsan,solsan/XC706819.ogg,4.5,-16.5631,-49.285,birdclef-2025/train_audio/solsan/XC706819.ogg,Aves,18.88653125
 solsan,solsan/XC711041.ogg,4.0,-9.2856,-50.0142,birdclef-2025/train_audio/solsan/XC711041.ogg,Aves,1.46284375
 solsan,solsan/XC717573.ogg,4.0,-14.625,-49.0051,birdclef-2025/train_audio/solsan/XC717573.ogg,Aves,7.34040625
@@ -5347,6 +5424,7 @@ soulap1,soulap1/XC51500.ogg,5.0,-22.1931,-63.9445,birdclef-2025/train_audio/soul
 soulap1,soulap1/XC521724.ogg,4.0,-50.325,-72.265,birdclef-2025/train_audio/soulap1/XC521724.ogg,Aves,7.824
 soulap1,soulap1/XC530225.ogg,3.0,-37.9058,-73.2909,birdclef-2025/train_audio/soulap1/XC530225.ogg,Aves,6.48
 soulap1,soulap1/XC530724.ogg,4.0,-22.9511,-43.0384,birdclef-2025/train_audio/soulap1/XC530724.ogg,Aves,12.12
+soulap1,soulap1/XC531935.ogg,2.5,-16.6003,-49.2802,birdclef-2025/train_audio/soulap1/XC531935.ogg,Aves,10.9714375
 soulap1,soulap1/XC534168.ogg,4.0,-41.5077,-72.7719,birdclef-2025/train_audio/soulap1/XC534168.ogg,Aves,14.7330625
 soulap1,soulap1/XC534305.ogg,5.0,-41.4873,-72.9031,birdclef-2025/train_audio/soulap1/XC534305.ogg,Aves,3.68325
 soulap1,soulap1/XC539586.ogg,5.0,7.3515,-80.8585,birdclef-2025/train_audio/soulap1/XC539586.ogg,Aves,7.512
@@ -5381,6 +5459,7 @@ soulap1,soulap1/XC712956.ogg,3.0,-7.7568,-39.8771,birdclef-2025/train_audio/soul
 soulap1,soulap1/XC716158.ogg,5.0,-33.6195,-71.6295,birdclef-2025/train_audio/soulap1/XC716158.ogg,Aves,11.568
 soulap1,soulap1/XC737429.ogg,4.5,-17.1888,-48.7335,birdclef-2025/train_audio/soulap1/XC737429.ogg,Aves,17.63265625
 soulap1,soulap1/XC745200.ogg,4.0,-21.159,-48.3639,birdclef-2025/train_audio/soulap1/XC745200.ogg,Aves,2.821
+soulap1,soulap1/XC752860.ogg,2.5,-16.4456,-51.1201,birdclef-2025/train_audio/soulap1/XC752860.ogg,Aves,13.87103125
 soulap1,soulap1/XC754867.ogg,4.0,-32.1578,-58.5308,birdclef-2025/train_audio/soulap1/XC754867.ogg,Aves,12.538
 soulap1,soulap1/XC762551.ogg,4.0,4.5164,-75.305,birdclef-2025/train_audio/soulap1/XC762551.ogg,Aves,16.512
 soulap1,soulap1/XC769537.ogg,4.5,-6.3761,-47.1085,birdclef-2025/train_audio/soulap1/XC769537.ogg,Aves,11.20653125
@@ -5563,6 +5642,7 @@ stbwoo2,stbwoo2/XC387857.ogg,4.0,5.6,-67.5931,birdclef-2025/train_audio/stbwoo2/
 stbwoo2,stbwoo2/XC387925.ogg,4.0,4.9247,-52.2756,birdclef-2025/train_audio/stbwoo2/XC387925.ogg,Aves,8.2546875
 stbwoo2,stbwoo2/XC403328.ogg,4.0,4.9405,-52.3363,birdclef-2025/train_audio/stbwoo2/XC403328.ogg,Aves,8.54203125
 stbwoo2,stbwoo2/XC416463.ogg,5.0,-15.2144,-51.1947,birdclef-2025/train_audio/stbwoo2/XC416463.ogg,Aves,8.15021875
+stbwoo2,stbwoo2/XC420237.ogg,2.5,4.3829,-75.1847,birdclef-2025/train_audio/stbwoo2/XC420237.ogg,Aves,9.912
 stbwoo2,stbwoo2/XC427309.ogg,4.0,-4.2668,-38.9342,birdclef-2025/train_audio/stbwoo2/XC427309.ogg,Aves,14.016
 stbwoo2,stbwoo2/XC432381.ogg,4.0,-14.917,-51.0755,birdclef-2025/train_audio/stbwoo2/XC432381.ogg,Aves,4.28409375
 stbwoo2,stbwoo2/XC432961.ogg,3.0,4.4796,-74.6082,birdclef-2025/train_audio/stbwoo2/XC432961.ogg,Aves,3.056
@@ -5720,6 +5800,7 @@ strfly1,strfly1/XC249717.ogg,4.0,-2.159,-80.037,birdclef-2025/train_audio/strfly
 strfly1,strfly1/XC250353.ogg,4.0,-4.401,-79.854,birdclef-2025/train_audio/strfly1/XC250353.ogg,Aves,13.06121875
 strfly1,strfly1/XC250354.ogg,5.0,-4.401,-79.854,birdclef-2025/train_audio/strfly1/XC250354.ogg,Aves,8.07184375
 strfly1,strfly1/XC250355.ogg,5.0,-4.401,-79.854,birdclef-2025/train_audio/strfly1/XC250355.ogg,Aves,7.73225
+strfly1,strfly1/XC2522.ogg,2.5,-17.1028,-64.7792,birdclef-2025/train_audio/strfly1/XC2522.ogg,Aves,18.33796875
 strfly1,strfly1/XC254196.ogg,3.0,8.8211,-70.5013,birdclef-2025/train_audio/strfly1/XC254196.ogg,Aves,14.02775
 strfly1,strfly1/XC259011.ogg,5.0,-0.523,-76.438,birdclef-2025/train_audio/strfly1/XC259011.ogg,Aves,16.22203125
 strfly1,strfly1/XC259013.ogg,4.5,-1.673,-80.786,birdclef-2025/train_audio/strfly1/XC259013.ogg,Aves,17.76325
@@ -6090,6 +6171,7 @@ trokin,trokin/XC375952.ogg,5.0,9.8788,-85.5502,birdclef-2025/train_audio/trokin/
 trokin,trokin/XC375953.ogg,4.0,9.8788,-85.5502,birdclef-2025/train_audio/trokin/XC375953.ogg,Aves,10.8930625
 trokin,trokin/XC382870.ogg,4.0,25.7364,-100.2925,birdclef-2025/train_audio/trokin/XC382870.ogg,Aves,10.031
 trokin,trokin/XC384644.ogg,4.5,12.6333,-87.1362,birdclef-2025/train_audio/trokin/XC384644.ogg,Aves,9.84815625
+trokin,trokin/XC385283.ogg,2.5,9.9813,-69.5325,birdclef-2025/train_audio/trokin/XC385283.ogg,Aves,13.2963125
 trokin,trokin/XC391751.ogg,4.0,16.7251,-93.0939,birdclef-2025/train_audio/trokin/XC391751.ogg,Aves,9.816
 trokin,trokin/XC394913.ogg,4.0,33.992,-112.7447,birdclef-2025/train_audio/trokin/XC394913.ogg,Aves,6.373
 trokin,trokin/XC394920.ogg,4.0,33.9329,-112.6948,birdclef-2025/train_audio/trokin/XC394920.ogg,Aves,6.478
@@ -6158,6 +6240,7 @@ trokin,trokin/XC694329.ogg,5.0,16.3339,-95.0169,birdclef-2025/train_audio/trokin
 trokin,trokin/XC697476.ogg,4.0,-9.2524,-36.4187,birdclef-2025/train_audio/trokin/XC697476.ogg,Aves,3.918375
 trokin,trokin/XC697484.ogg,4.0,-9.2524,-36.4187,birdclef-2025/train_audio/trokin/XC697484.ogg,Aves,4.67590625
 trokin,trokin/XC699596.ogg,4.0,-16.0538,-49.604,birdclef-2025/train_audio/trokin/XC699596.ogg,Aves,5.38121875
+trokin,trokin/XC705422.ogg,2.5,-13.7656,-66.1005,birdclef-2025/train_audio/trokin/XC705422.ogg,Aves,11.688
 trokin,trokin/XC705424.ogg,3.0,-15.1912,-64.7212,birdclef-2025/train_audio/trokin/XC705424.ogg,Aves,19.176
 trokin,trokin/XC707622.ogg,5.0,-17.7419,-39.4548,birdclef-2025/train_audio/trokin/XC707622.ogg,Aves,4.4408125
 trokin,trokin/XC713687.ogg,4.0,-16.5631,-49.285,birdclef-2025/train_audio/trokin/XC713687.ogg,Aves,17.3714375
@@ -6373,6 +6456,7 @@ trsowl,trsowl/XC954653.ogg,3.0,9.9968,-84.2566,birdclef-2025/train_audio/trsowl/
 trsowl,trsowl/XC962078.ogg,5.0,5.7134,-53.8643,birdclef-2025/train_audio/trsowl/XC962078.ogg,Aves,13.13959375
 watjac1,watjac1/XC110422.ogg,3.5,-14.456,-64.847,birdclef-2025/train_audio/watjac1/XC110422.ogg,Aves,14.053875
 watjac1,watjac1/XC118669.ogg,3.0,-3.6668,-45.8465,birdclef-2025/train_audio/watjac1/XC118669.ogg,Aves,3.9445
+watjac1,watjac1/XC123799.ogg,2.5,-22.6771,-47.9831,birdclef-2025/train_audio/watjac1/XC123799.ogg,Aves,15.59509375
 watjac1,watjac1/XC123993.ogg,4.0,-18.1206,-63.6471,birdclef-2025/train_audio/watjac1/XC123993.ogg,Aves,11.28490625
 watjac1,watjac1/XC124396.ogg,3.0,-19.8189,-40.2739,birdclef-2025/train_audio/watjac1/XC124396.ogg,Aves,3.78775
 watjac1,watjac1/XC127171.ogg,5.0,-9.7326,-37.4351,birdclef-2025/train_audio/watjac1/XC127171.ogg,Aves,18.4685625
@@ -6389,10 +6473,12 @@ watjac1,watjac1/XC254093.ogg,4.0,7.5637,-69.4968,birdclef-2025/train_audio/watja
 watjac1,watjac1/XC254094.ogg,3.0,7.5637,-69.4968,birdclef-2025/train_audio/watjac1/XC254094.ogg,Aves,18.10284375
 watjac1,watjac1/XC255365.ogg,4.0,-7.2167,-75.3167,birdclef-2025/train_audio/watjac1/XC255365.ogg,Aves,11.93796875
 watjac1,watjac1/XC257495.ogg,5.0,-0.523,-76.438,birdclef-2025/train_audio/watjac1/XC257495.ogg,Aves,18.23346875
+watjac1,watjac1/XC257499.ogg,2.5,-0.498,-76.373,birdclef-2025/train_audio/watjac1/XC257499.ogg,Aves,8.1763125
 watjac1,watjac1/XC257502.ogg,4.0,0.083,-80.05,birdclef-2025/train_audio/watjac1/XC257502.ogg,Aves,14.6024375
 watjac1,watjac1/XC2765.ogg,4.0,-14.9001,-64.7167,birdclef-2025/train_audio/watjac1/XC2765.ogg,Aves,14.8636875
 watjac1,watjac1/XC290380.ogg,4.0,-17.7833,-63.0666,birdclef-2025/train_audio/watjac1/XC290380.ogg,Aves,4.989375
 watjac1,watjac1/XC325551.ogg,4.0,-2.6557,-57.9652,birdclef-2025/train_audio/watjac1/XC325551.ogg,Aves,7.728
+watjac1,watjac1/XC331752.ogg,2.5,-23.4619,-45.0655,birdclef-2025/train_audio/watjac1/XC331752.ogg,Aves,17.08409375
 watjac1,watjac1/XC343907.ogg,4.0,-19.0216,-57.4984,birdclef-2025/train_audio/watjac1/XC343907.ogg,Aves,12.8
 watjac1,watjac1/XC351250.ogg,4.0,-20.2209,-56.5751,birdclef-2025/train_audio/watjac1/XC351250.ogg,Aves,7.99346875
 watjac1,watjac1/XC357134.ogg,4.0,-2.6557,-57.9652,birdclef-2025/train_audio/watjac1/XC357134.ogg,Aves,5.112
@@ -6400,6 +6486,7 @@ watjac1,watjac1/XC392024.ogg,4.0,-22.4508,-42.7735,birdclef-2025/train_audio/wat
 watjac1,watjac1/XC395987.ogg,3.0,9.1332,-79.7195,birdclef-2025/train_audio/watjac1/XC395987.ogg,Aves,5.53796875
 watjac1,watjac1/XC410421.ogg,4.0,-24.2566,-65.3492,birdclef-2025/train_audio/watjac1/XC410421.ogg,Aves,19.069375
 watjac1,watjac1/XC427513.ogg,3.5,-24.2601,-48.4073,birdclef-2025/train_audio/watjac1/XC427513.ogg,Aves,19.173875
+watjac1,watjac1/XC43803.ogg,2.5,11.007,-74.588,birdclef-2025/train_audio/watjac1/XC43803.ogg,Aves,8.54203125
 watjac1,watjac1/XC443417.ogg,3.0,-14.625,-49.0051,birdclef-2025/train_audio/watjac1/XC443417.ogg,Aves,4.07509375
 watjac1,watjac1/XC450429.ogg,4.0,5.1567,-52.6698,birdclef-2025/train_audio/watjac1/XC450429.ogg,Aves,9.95265625
 watjac1,watjac1/XC450430.ogg,3.0,5.1567,-52.6698,birdclef-2025/train_audio/watjac1/XC450430.ogg,Aves,8.881625
@@ -6431,6 +6518,7 @@ watjac1,watjac1/XC946969.ogg,4.5,5.9204,-74.64,birdclef-2025/train_audio/watjac1
 watjac1,watjac1/XC955580.ogg,5.0,-27.3597,-55.9097,birdclef-2025/train_audio/watjac1/XC955580.ogg,Aves,9.0
 watjac1,watjac1/XC959177.ogg,3.0,-27.3597,-55.9097,birdclef-2025/train_audio/watjac1/XC959177.ogg,Aves,11.3
 wbwwre1,wbwwre1/XC10552.ogg,3.0,9.1334,-79.6501,birdclef-2025/train_audio/wbwwre1/XC10552.ogg,Aves,17.005
+wbwwre1,wbwwre1/XC112907.ogg,2.5,9.164,-79.753,birdclef-2025/train_audio/wbwwre1/XC112907.ogg,Aves,19.278375
 wbwwre1,wbwwre1/XC112909.ogg,4.0,9.164,-79.753,birdclef-2025/train_audio/wbwwre1/XC112909.ogg,Aves,11.80734375
 wbwwre1,wbwwre1/XC114211.ogg,4.0,8.009,-77.748,birdclef-2025/train_audio/wbwwre1/XC114211.ogg,Aves,13.71428125
 wbwwre1,wbwwre1/XC116561.ogg,4.0,6.3422,-77.3688,birdclef-2025/train_audio/wbwwre1/XC116561.ogg,Aves,17.71103125
@@ -6632,6 +6720,7 @@ whbman1,whbman1/XC344574.ogg,4.0,-26.3182,-48.8969,birdclef-2025/train_audio/whb
 whbman1,whbman1/XC347738.ogg,4.0,-24.2992,-47.0555,birdclef-2025/train_audio/whbman1/XC347738.ogg,Aves,15.59509375
 whbman1,whbman1/XC353938.ogg,5.0,6.0498,-74.2614,birdclef-2025/train_audio/whbman1/XC353938.ogg,Aves,10.44
 whbman1,whbman1/XC387898.ogg,4.0,-22.4508,-42.7735,birdclef-2025/train_audio/whbman1/XC387898.ogg,Aves,4.872
+whbman1,whbman1/XC406929.ogg,2.5,5.6271,-77.4042,birdclef-2025/train_audio/whbman1/XC406929.ogg,Aves,3.0824375
 whbman1,whbman1/XC419469.ogg,4.0,-22.8842,-48.4442,birdclef-2025/train_audio/whbman1/XC419469.ogg,Aves,19.931
 whbman1,whbman1/XC425523.ogg,4.0,5.9002,-74.8485,birdclef-2025/train_audio/whbman1/XC425523.ogg,Aves,19.069375
 whbman1,whbman1/XC428480.ogg,5.0,5.332,-74.92,birdclef-2025/train_audio/whbman1/XC428480.ogg,Aves,9.768
@@ -6770,6 +6859,7 @@ whtdov,whtdov/XC898528.ogg,5.0,-30.957,-62.7173,birdclef-2025/train_audio/whtdov
 whtdov,whtdov/XC901113.ogg,5.0,25.8523,-97.4178,birdclef-2025/train_audio/whtdov/XC901113.ogg,Aves,9.432
 whtdov,whtdov/XC932734.ogg,5.0,-15.8751,-48.9345,birdclef-2025/train_audio/whtdov/XC932734.ogg,Aves,16.091
 whtdov,whtdov/XC933857.ogg,5.0,-16.0781,-50.218,birdclef-2025/train_audio/whtdov/XC933857.ogg,Aves,9.586
+whttro1,whttro1/XC112906.ogg,2.5,9.164,-79.753,birdclef-2025/train_audio/whttro1/XC112906.ogg,Aves,7.94121875
 whttro1,whttro1/XC112910.ogg,3.0,9.164,-79.753,birdclef-2025/train_audio/whttro1/XC112910.ogg,Aves,10.03103125
 whttro1,whttro1/XC118737.ogg,4.0,0.8501,-78.7667,birdclef-2025/train_audio/whttro1/XC118737.ogg,Aves,16.19590625
 whttro1,whttro1/XC175161.ogg,4.0,5.8946,-74.8572,birdclef-2025/train_audio/whttro1/XC175161.ogg,Aves,4.584
@@ -6819,6 +6909,7 @@ whwswa1,whwswa1/XC943000.ogg,3.0,4.1903,-74.6876,birdclef-2025/train_audio/whwsw
 whwswa1,whwswa1/XC943011.ogg,3.0,4.3127,-74.7746,birdclef-2025/train_audio/whwswa1/XC943011.ogg,Aves,2.0235625
 y00678,y00678/XC123639.ogg,4.0,-16.7581,-56.8764,birdclef-2025/train_audio/y00678/XC123639.ogg,Aves,8.28
 y00678,y00678/XC130968.ogg,4.0,27.5597,-81.0127,birdclef-2025/train_audio/y00678/XC130968.ogg,Aves,0.6791875
+y00678,y00678/XC147708.ogg,2.5,18.0024,-94.5653,birdclef-2025/train_audio/y00678/XC147708.ogg,Aves,9.82203125
 y00678,y00678/XC165328.ogg,3.0,28.229,-80.813,birdclef-2025/train_audio/y00678/XC165328.ogg,Aves,3.312
 y00678,y00678/XC165329.ogg,3.0,28.229,-80.813,birdclef-2025/train_audio/y00678/XC165329.ogg,Aves,3.936
 y00678,y00678/XC165330.ogg,3.0,28.229,-80.813,birdclef-2025/train_audio/y00678/XC165330.ogg,Aves,2.76
@@ -6880,6 +6971,7 @@ yebela1,yebela1/XC128034.ogg,4.0,4.4542,-75.7659,birdclef-2025/train_audio/yebel
 yebela1,yebela1/XC128385.ogg,3.0,4.6197,-75.851,birdclef-2025/train_audio/yebela1/XC128385.ogg,Aves,17.28
 yebela1,yebela1/XC144995.ogg,4.0,-24.3167,-47.01,birdclef-2025/train_audio/yebela1/XC144995.ogg,Aves,11.57225
 yebela1,yebela1/XC145304.ogg,4.0,-15.355,-38.982,birdclef-2025/train_audio/yebela1/XC145304.ogg,Aves,9.40409375
+yebela1,yebela1/XC149792.ogg,2.5,-1.0054,-46.8002,birdclef-2025/train_audio/yebela1/XC149792.ogg,Aves,9.90040625
 yebela1,yebela1/XC152243.ogg,4.0,3.7126,-73.2483,birdclef-2025/train_audio/yebela1/XC152243.ogg,Aves,9.40409375
 yebela1,yebela1/XC156275.ogg,4.0,4.4269,-75.1832,birdclef-2025/train_audio/yebela1/XC156275.ogg,Aves,5.352
 yebela1,yebela1/XC156280.ogg,4.0,4.4269,-75.1832,birdclef-2025/train_audio/yebela1/XC156280.ogg,Aves,6.192
@@ -6921,6 +7013,7 @@ yebela1,yebela1/XC419217.ogg,3.0,-16.2794,-39.6105,birdclef-2025/train_audio/yeb
 yebela1,yebela1/XC419218.ogg,3.0,-16.2794,-39.6105,birdclef-2025/train_audio/yebela1/XC419218.ogg,Aves,12.168
 yebela1,yebela1/XC419430.ogg,3.0,-16.3162,-39.1848,birdclef-2025/train_audio/yebela1/XC419430.ogg,Aves,9.552
 yebela1,yebela1/XC423525.ogg,3.5,-14.625,-49.0051,birdclef-2025/train_audio/yebela1/XC423525.ogg,Aves,17.03184375
+yebela1,yebela1/XC430055.ogg,2.5,-5.978,-35.1731,birdclef-2025/train_audio/yebela1/XC430055.ogg,Aves,17.11021875
 yebela1,yebela1/XC432958.ogg,3.0,4.4796,-74.6082,birdclef-2025/train_audio/yebela1/XC432958.ogg,Aves,2.951
 yebela1,yebela1/XC433657.ogg,4.0,8.5955,-80.1382,birdclef-2025/train_audio/yebela1/XC433657.ogg,Aves,10.1355
 yebela1,yebela1/XC439025.ogg,4.0,11.2894,-73.885,birdclef-2025/train_audio/yebela1/XC439025.ogg,Aves,9.6391875
@@ -6928,6 +7021,7 @@ yebela1,yebela1/XC440674.ogg,5.0,-22.5001,-42.7167,birdclef-2025/train_audio/yeb
 yebela1,yebela1/XC440675.ogg,5.0,0.6834,-51.4834,birdclef-2025/train_audio/yebela1/XC440675.ogg,Aves,9.5608125
 yebela1,yebela1/XC447989.ogg,4.0,-22.8842,-48.4442,birdclef-2025/train_audio/yebela1/XC447989.ogg,Aves,4.937
 yebela1,yebela1/XC455155.ogg,3.5,4.843,-75.8187,birdclef-2025/train_audio/yebela1/XC455155.ogg,Aves,9.5346875
+yebela1,yebela1/XC459231.ogg,2.5,4.843,-75.8187,birdclef-2025/train_audio/yebela1/XC459231.ogg,Aves,7.83675
 yebela1,yebela1/XC47619.ogg,3.0,-5.1001,-78.8834,birdclef-2025/train_audio/yebela1/XC47619.ogg,Aves,6.08653125
 yebela1,yebela1/XC479987.ogg,4.0,4.7216,-52.3073,birdclef-2025/train_audio/yebela1/XC479987.ogg,Aves,16.0914375
 yebela1,yebela1/XC479988.ogg,4.0,4.7216,-52.3073,birdclef-2025/train_audio/yebela1/XC479988.ogg,Aves,4.67590625
@@ -6941,6 +7035,7 @@ yebela1,yebela1/XC538043.ogg,5.0,4.351,-74.652,birdclef-2025/train_audio/yebela1
 yebela1,yebela1/XC539378.ogg,3.0,4.7844,-52.426,birdclef-2025/train_audio/yebela1/XC539378.ogg,Aves,7.39265625
 yebela1,yebela1/XC540223.ogg,3.5,8.685,-83.6679,birdclef-2025/train_audio/yebela1/XC540223.ogg,Aves,19.104
 yebela1,yebela1/XC542033.ogg,3.0,4.447,-75.1535,birdclef-2025/train_audio/yebela1/XC542033.ogg,Aves,7.536
+yebela1,yebela1/XC550350.ogg,2.5,-16.5631,-49.285,birdclef-2025/train_audio/yebela1/XC550350.ogg,Aves,8.67265625
 yebela1,yebela1/XC550831.ogg,4.0,-26.5723,-53.8018,birdclef-2025/train_audio/yebela1/XC550831.ogg,Aves,4.104
 yebela1,yebela1/XC550846.ogg,4.0,-26.5723,-53.8018,birdclef-2025/train_audio/yebela1/XC550846.ogg,Aves,14.184
 yebela1,yebela1/XC573245.ogg,4.0,9.0095,-79.4684,birdclef-2025/train_audio/yebela1/XC573245.ogg,Aves,5.825
@@ -7005,6 +7100,7 @@ yebfly1,yebfly1/XC204196.ogg,4.0,-9.5981,-55.932,birdclef-2025/train_audio/yebfl
 yebfly1,yebfly1/XC209613.ogg,4.0,-19.4144,-42.4151,birdclef-2025/train_audio/yebfly1/XC209613.ogg,Aves,15.41225
 yebfly1,yebfly1/XC244950.ogg,4.0,5.145,-70.9575,birdclef-2025/train_audio/yebfly1/XC244950.ogg,Aves,11.52
 yebfly1,yebfly1/XC245159.ogg,3.0,5.79,-72.21,birdclef-2025/train_audio/yebfly1/XC245159.ogg,Aves,15.024
+yebfly1,yebfly1/XC245398.ogg,2.5,6.28,-71.78,birdclef-2025/train_audio/yebfly1/XC245398.ogg,Aves,18.36
 yebfly1,yebfly1/XC245403.ogg,4.0,6.28,-71.78,birdclef-2025/train_audio/yebfly1/XC245403.ogg,Aves,12.912
 yebfly1,yebfly1/XC254049.ogg,4.0,-19.2204,-42.4832,birdclef-2025/train_audio/yebfly1/XC254049.ogg,Aves,17.2669375
 yebfly1,yebfly1/XC274845.ogg,4.0,-22.4508,-42.7735,birdclef-2025/train_audio/yebfly1/XC274845.ogg,Aves,7.44490625
@@ -7041,6 +7137,7 @@ yebfly1,yebfly1/XC7848.ogg,3.0,-9.3001,-35.9334,birdclef-2025/train_audio/yebfly
 yebfly1,yebfly1/XC837925.ogg,4.0,-14.0858,-50.8244,birdclef-2025/train_audio/yebfly1/XC837925.ogg,Aves,15.17715625
 yebfly1,yebfly1/XC898428.ogg,5.0,-12.3747,-44.9552,birdclef-2025/train_audio/yebfly1/XC898428.ogg,Aves,15.072
 yebfly1,yebfly1/XC898444.ogg,4.5,-12.4133,-45.0003,birdclef-2025/train_audio/yebfly1/XC898444.ogg,Aves,11.415
+yebfly1,yebfly1/XC918630.ogg,2.5,-16.4456,-51.1201,birdclef-2025/train_audio/yebfly1/XC918630.ogg,Aves,9.4824375
 yebfly1,yebfly1/XC929626.ogg,5.0,-22.405,-42.014,birdclef-2025/train_audio/yebfly1/XC929626.ogg,Aves,11.328
 yebfly1,yebfly1/XC939076.ogg,4.0,2.8044,-60.6718,birdclef-2025/train_audio/yebfly1/XC939076.ogg,Aves,5.198
 yebfly1,yebfly1/XC939082.ogg,5.0,2.8044,-60.6718,birdclef-2025/train_audio/yebfly1/XC939082.ogg,Aves,8.803
@@ -7086,6 +7183,7 @@ yebsee1,yebsee1/XC777933.ogg,4.5,-16.0538,-49.604,birdclef-2025/train_audio/yebs
 yebsee1,yebsee1/XC782331.ogg,5.0,-12.3726,-54.9346,birdclef-2025/train_audio/yebsee1/XC782331.ogg,Aves,5.877
 yebsee1,yebsee1/XC782465.ogg,5.0,-12.3726,-54.9346,birdclef-2025/train_audio/yebsee1/XC782465.ogg,Aves,11.964
 yebsee1,yebsee1/XC784123.ogg,4.0,-6.0565,-77.8973,birdclef-2025/train_audio/yebsee1/XC784123.ogg,Aves,18.040875
+yebsee1,yebsee1/XC787996.ogg,2.5,-16.4456,-51.1201,birdclef-2025/train_audio/yebsee1/XC787996.ogg,Aves,17.44978125
 yebsee1,yebsee1/XC788959.ogg,4.0,-13.3558,-47.2809,birdclef-2025/train_audio/yebsee1/XC788959.ogg,Aves,12.1991875
 yebsee1,yebsee1/XC800087.ogg,3.5,-16.4727,-49.4959,birdclef-2025/train_audio/yebsee1/XC800087.ogg,Aves,9.90040625
 yebsee1,yebsee1/XC800279.ogg,5.0,-16.4727,-49.4959,birdclef-2025/train_audio/yebsee1/XC800279.ogg,Aves,2.6645
@@ -7124,6 +7222,7 @@ yecspi2,yecspi2/XC414192.ogg,4.0,-16.5728,-49.3122,birdclef-2025/train_audio/yec
 yecspi2,yecspi2/XC427190.ogg,4.0,-10.7348,-49.8553,birdclef-2025/train_audio/yecspi2/XC427190.ogg,Aves,7.44
 yecspi2,yecspi2/XC435973.ogg,4.0,-22.7036,-47.6068,birdclef-2025/train_audio/yecspi2/XC435973.ogg,Aves,4.02284375
 yecspi2,yecspi2/XC440219.ogg,3.0,4.4796,-74.6082,birdclef-2025/train_audio/yecspi2/XC440219.ogg,Aves,3.996
+yecspi2,yecspi2/XC440976.ogg,2.5,-11.9787,-49.8953,birdclef-2025/train_audio/yecspi2/XC440976.ogg,Aves,12.1730625
 yecspi2,yecspi2/XC443408.ogg,3.0,-14.625,-49.0051,birdclef-2025/train_audio/yecspi2/XC443408.ogg,Aves,5.7469375
 yecspi2,yecspi2/XC444255.ogg,3.0,-22.6562,-59.581,birdclef-2025/train_audio/yecspi2/XC444255.ogg,Aves,18.828
 yecspi2,yecspi2/XC454508.ogg,3.0,-27.7001,-57.1834,birdclef-2025/train_audio/yecspi2/XC454508.ogg,Aves,19.121625
@@ -7139,6 +7238,8 @@ yecspi2,yecspi2/XC562159.ogg,3.0,-5.1555,-37.2853,birdclef-2025/train_audio/yecs
 yecspi2,yecspi2/XC56985.ogg,3.0,10.854,-74.761,birdclef-2025/train_audio/yecspi2/XC56985.ogg,Aves,2.89959375
 yecspi2,yecspi2/XC583589.ogg,4.0,4.9242,-52.3328,birdclef-2025/train_audio/yecspi2/XC583589.ogg,Aves,10.161625
 yecspi2,yecspi2/XC704830.ogg,4.0,-9.5035,-50.0924,birdclef-2025/train_audio/yecspi2/XC704830.ogg,Aves,4.20571875
+yecspi2,yecspi2/XC707963.ogg,2.5,-13.7656,-66.1005,birdclef-2025/train_audio/yecspi2/XC707963.ogg,Aves,16.296
+yecspi2,yecspi2/XC709815.ogg,2.5,-16.6122,-50.3301,birdclef-2025/train_audio/yecspi2/XC709815.ogg,Aves,11.15428125
 yecspi2,yecspi2/XC720790.ogg,4.0,-9.2856,-50.0142,birdclef-2025/train_audio/yecspi2/XC720790.ogg,Aves,5.06775
 yecspi2,yecspi2/XC728830.ogg,4.0,-9.7504,-50.1926,birdclef-2025/train_audio/yecspi2/XC728830.ogg,Aves,4.72815625
 yecspi2,yecspi2/XC74985.ogg,3.5,5.9001,-55.2301,birdclef-2025/train_audio/yecspi2/XC74985.ogg,Aves,13.74040625
@@ -7188,7 +7289,9 @@ yectyr1,yectyr1/XC583601.ogg,4.0,5.0901,-52.5698,birdclef-2025/train_audio/yecty
 yectyr1,yectyr1/XC605711.ogg,4.0,3.6282,-76.4497,birdclef-2025/train_audio/yectyr1/XC605711.ogg,Aves,4.5975625
 yectyr1,yectyr1/XC713805.ogg,3.0,-7.5922,-72.7438,birdclef-2025/train_audio/yectyr1/XC713805.ogg,Aves,7.68
 yectyr1,yectyr1/XC71456.ogg,4.0,0.2578,-79.192,birdclef-2025/train_audio/yectyr1/XC71456.ogg,Aves,6.4
+yectyr1,yectyr1/XC817222.ogg,2.5,-6.3776,-47.4047,birdclef-2025/train_audio/yectyr1/XC817222.ogg,Aves,18.755
 yectyr1,yectyr1/XC821690.ogg,4.0,-8.3146,-63.8886,birdclef-2025/train_audio/yectyr1/XC821690.ogg,Aves,12.721625
+yectyr1,yectyr1/XC821799.ogg,2.5,-8.3146,-63.8886,birdclef-2025/train_audio/yectyr1/XC821799.ogg,Aves,6.4
 yectyr1,yectyr1/XC8224.ogg,4.0,10.6001,-62.5334,birdclef-2025/train_audio/yectyr1/XC8224.ogg,Aves,7.810625
 yectyr1,yectyr1/XC824297.ogg,4.0,5.4617,-55.2283,birdclef-2025/train_audio/yectyr1/XC824297.ogg,Aves,15.87959375
 yectyr1,yectyr1/XC824298.ogg,4.0,5.4617,-55.2283,birdclef-2025/train_audio/yectyr1/XC824298.ogg,Aves,15.87959375
@@ -7297,6 +7400,7 @@ yelori1,yelori1/XC212612.ogg,4.0,10.1638,-69.5227,birdclef-2025/train_audio/yelo
 yelori1,yelori1/XC317711.ogg,3.5,8.8667,-75.7859,birdclef-2025/train_audio/yelori1/XC317711.ogg,Aves,15.9869375
 yelori1,yelori1/XC385371.ogg,3.0,9.9813,-69.5325,birdclef-2025/train_audio/yelori1/XC385371.ogg,Aves,10.42284375
 yelori1,yelori1/XC385502.ogg,4.0,9.9813,-69.5325,birdclef-2025/train_audio/yelori1/XC385502.ogg,Aves,17.4236875
+yelori1,yelori1/XC389257.ogg,2.5,11.2643,-74.1833,birdclef-2025/train_audio/yelori1/XC389257.ogg,Aves,8.736
 yelori1,yelori1/XC389258.ogg,3.5,11.2643,-74.1833,birdclef-2025/train_audio/yelori1/XC389258.ogg,Aves,14.856
 yelori1,yelori1/XC407328.ogg,3.0,4.9405,-52.3363,birdclef-2025/train_audio/yelori1/XC407328.ogg,Aves,18.15509375
 yelori1,yelori1/XC433277.ogg,3.5,4.5801,-74.5371,birdclef-2025/train_audio/yelori1/XC433277.ogg,Aves,15.098
@@ -7537,6 +7641,7 @@ yercac1,yercac1/XC691977.ogg,5.0,-16.0538,-49.604,birdclef-2025/train_audio/yerc
 yercac1,yercac1/XC693002.ogg,4.0,-1.6779,-80.7952,birdclef-2025/train_audio/yercac1/XC693002.ogg,Aves,10.848
 yercac1,yercac1/XC695658.ogg,5.0,9.1368,-79.7236,birdclef-2025/train_audio/yercac1/XC695658.ogg,Aves,13.488
 yercac1,yercac1/XC702781.ogg,3.5,-14.7306,-64.947,birdclef-2025/train_audio/yercac1/XC702781.ogg,Aves,7.536
+yercac1,yercac1/XC702787.ogg,2.5,-13.7656,-66.1005,birdclef-2025/train_audio/yercac1/XC702787.ogg,Aves,12.048
 yercac1,yercac1/XC731560.ogg,4.0,-14.625,-49.0051,birdclef-2025/train_audio/yercac1/XC731560.ogg,Aves,3.578
 yercac1,yercac1/XC743223.ogg,4.5,-16.5456,-49.1572,birdclef-2025/train_audio/yercac1/XC743223.ogg,Aves,6.11265625
 yercac1,yercac1/XC745534.ogg,4.0,-17.7396,-48.6279,birdclef-2025/train_audio/yercac1/XC745534.ogg,Aves,5.27675
